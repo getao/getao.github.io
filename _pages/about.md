@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-<span class='anchor' id='about'></span>
+<span class='anchor' id='about-me'></span>
 
 # About
 
