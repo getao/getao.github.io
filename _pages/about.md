@@ -1,16 +1,19 @@
 ---
 permalink: /
 title: "Homepage"
-excerpt: "About me"
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-Dr. Tao Ge worked at Microsoft Research (MSR) as a Principal Researcher with broad research interests in Natural Language Processing, especially in generative language models. Dr. Tao Ge focused on generative language models, and was responsible for efficient and lightweight modeling and inference for LM deployment in practice for product (e.g., writing assistants in Microsoft 365). Dr. Tao Ge has published 40+ papers at top-tier Artificial Intelligence conferences (e.g., ACL, EMNLP, NAACL, NeurIPS, ICLR, AAAI, IJCAI) and serve as the (senior) area chair and program committee member for the conferences. Before joining MSR, Dr. Tao Ge obtained his PhD degree from Peking University in 2017.
+Dr. Tao Ge worked at Microsoft Research (MSR) as a Principal Researcher with broad research interests in Natural Language Processing, especially in generative language models. Dr. Tao Ge focused on generative language models, and was responsible for efficient and lightweight modeling and inference for LM deployment in practice for products (e.g., various writing assistant features in Microsoft 365). Dr. Tao Ge has published 40+ papers at top-tier Artificial Intelligence conferences (e.g., ACL, EMNLP, NAACL, NeurIPS, ICLR, AAAI, IJCAI) and serve as the (senior) area chair and program committee member for the conferences. 
+
+Before joining MSR, Dr. Tao Ge obtained his PhD degree from Peking University in 2017.
 
 <span class='anchor' id='publications'></span>
+
 # Publications (#: students I mentored; *: equal contributions; +: Corresponding author)
 ## Preprint
 - **In-context Autoencoder for Context Compression in a Large Language Model**
