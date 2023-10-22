@@ -8,6 +8,10 @@ redirect_from:
   - /about.html
 ---
 
+<span class='anchor' id='about'></span>
+
+# About
+
 Dr. Tao Ge worked at Microsoft Research (MSR) as a Principal Researcher with broad research interests in Natural Language Processing, especially in generative language models. Dr. Tao Ge focused on generative language models, and was responsible for efficient and lightweight modeling and inference for LM deployment in practice for products (e.g., various writing assistant features in Microsoft 365). Dr. Tao Ge has published 40+ papers at top-tier Artificial Intelligence conferences (e.g., ACL, EMNLP, NAACL, NeurIPS, ICLR, AAAI, IJCAI) and serve as the (senior) area chair and program committee member for the conferences. 
 
 Before joining MSR, Dr. Tao Ge obtained his PhD degree from Peking University in 2017.
@@ -47,7 +51,7 @@ Before joining MSR, Dr. Tao Ge obtained his PhD degree from Peking University in
   https://arxiv.org/abs/2303.01421
 
 ## Peer-reviewed
-- **Speculative Decoding: Exploiting Draft-then-Verify for Accelerating Seq2seq Generation**
+- **Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**
   
   Heming Xia#, **Tao Ge**\*+, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui
   
