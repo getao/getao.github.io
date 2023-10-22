@@ -20,11 +20,18 @@ Before joining MSR, Dr. Tao Ge obtained his PhD degree from Peking University in
 
 # Publications (#: students I mentored; *: equal contributions; +: Corresponding author)
 ## Preprint
+
 - **In-context Autoencoder for Context Compression in a Large Language Model**
   
   **Tao Ge+**, Jing Hu#, Lei Wang#, Xun Wang, Si-Qing Chen, Furu Wei
   
   https://arxiv.org/abs/2307.16371
+
+- **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
+  
+  Zhenhailong Wang#, Shaoguang Mao, Wenshan Wu, **Tao Ge**, Furu Wei, Heng Ji
+  
+  https://arxiv.org/abs/2307.05300
 
 - **Low-code LLM: Visual Programming over LLMs**
   
@@ -38,11 +45,6 @@ Before joining MSR, Dr. Tao Ge obtained his PhD degree from Peking University in
   
   https://arxiv.org/abs/2304.04487
 
-- **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
-  
-  Zhenhailong Wang#, Shaoguang Mao, Wenshan Wu, **Tao Ge**, Furu Wei, Heng Ji
-  
-  https://arxiv.org/abs/2307.05300
 
 - **Semiparametric Language Models Are Scalable Continual Learners**
   
