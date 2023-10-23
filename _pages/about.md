@@ -18,9 +18,6 @@ Before joining MSR, Dr. Tao Ge obtained his PhD degree from Peking University in
 
 <span class='anchor' id='publications'></span>
 
-# Publications (\#: students I mentored; \*: equal contributions; \+: Corresponding author)
-## Preprint
-
 # Publications (<sup>\#</sup>: students I mentored; <sup>\*</sup>: equal contributions; <sup>\+</sup>: Corresponding author)
 ## Preprint
 
