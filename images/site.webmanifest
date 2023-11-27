@@ -3,12 +3,12 @@
     "short_name": "",
     "icons": [
        {
-          "src": "/128px-Google_Scholar_logo.svg.png",
+          "src": "/masterball.png",
           "sizes": "128x128",
           "type": "image/png"
        },
        {
-        "src": "/512px-Google_Scholar_logo.svg.png",
+        "src": "/masterball.png",
         "sizes": "512x512",
         "type": "image/png"
         }
