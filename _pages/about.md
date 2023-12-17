@@ -16,7 +16,7 @@ I was a Principal Researcher at Microsoft Research (MSR) in the Natural Language
 
 Beyond academia, I was responsible for the development and deployment of specific generative models within Microsoft 365. I architected and delivered models for the most visible and utilized writing assistance features in Microsoft Editor, transforming the writing experience for hundreds of millions of M365 users with cutting-edge AI technologies.
 
-Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, under the guidance of Prof. [Zhifang Sui](https://cs.pku.edu.cn/info/1226/2014.htm). During my doctoral studies, I also had the privilege of working with Prof. [Heng Ji](https://cs.illinois.edu/about/people/department-faculty/hengji) during my visit to Rensselaer Polytechnic Institute (RPI), and with Dr. [Jun Suzuki](https://www.fai.cds.tohoku.ac.jp/members/js/) and Dr. [Masaaki Nagata](https://www.rd.ntt/e/organization/researcher/superior/s_011.html) during my visit to NTT Communication Science Laboratories.
+Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, advised by Prof. [Zhifang Sui](https://cs.pku.edu.cn/info/1226/2014.htm). During my doctoral studies, I also had the privilege of working with Prof. [Heng Ji](https://cs.illinois.edu/about/people/department-faculty/hengji) during my visit to Rensselaer Polytechnic Institute (RPI), and with Dr. [Jun Suzuki](https://www.fai.cds.tohoku.ac.jp/members/js/) and Dr. [Masaaki Nagata](https://www.rd.ntt/e/organization/researcher/superior/s_011.html) during my visit to NTT Communication Science Laboratories.
 
 
 <span class='anchor' id='publications'></span>
