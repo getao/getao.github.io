@@ -14,7 +14,7 @@ redirect_from:
 
 I was a Principal Researcher at Microsoft Research (MSR) in the [Natural Language Computing group](https://www.microsoft.com/en-us/research/group/natural-language-computing/), working with Dr. [Furu Wei](https://www.microsoft.com/en-us/research/people/fuwei/) and Dr. [Ming Zhou](https://www.langboat.com/en/about/resume). My research encompassed a broad range of topics in Natural Language Processing and Machine Learning, with a particular focus on generative language models as well as efficient modeling and inference. I have published over 40 papers at leading Artificial Intelligence conferences such as ACL, NeurIPS, ICLR, EMNLP, and NAACL. I have served as a (senior) area chair and program committee member for these conferences.
 
-Beyond academia, I was responsible for the development and deployment of generative models within Microsoft 365. I architected and delivered models for the most visible and utilized features in Microsoft Editor, revolutionizing the writing experience for hundreds of millions of M365 users with cutting-edge AI technologies.
+Beyond academia, I was responsible for the development and deployment of specific generative models within Microsoft 365. I architected and delivered models for the most visible and utilized writing assistance features in Microsoft Editor, transforming the writing experience for hundreds of millions of M365 users with cutting-edge AI technologies.
 
 Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017.
 
