@@ -24,13 +24,13 @@ Beyond academia, I was responsible for the development and deployment of generat
 
 - **ALYMPICS: Language Agents Meet Game Theory**
   
-  Shaoguang Mao, Yuzhe Cai, Yan Xia, Wenshan Wu, Xun Wang, Fengyi Wang, **Tao Ge<sup>+</sup>**, Furu Wei
+  Shaoguang Mao, Yuzhe Cai, Yan Xia, Wenshan Wu, Xun Wang, Fengyi Wang, **Tao Ge**, Furu Wei
   
   [https://arxiv.org/abs/2311.03220](https://arxiv.org/abs/2311.03220)
 
 - **SCALE: Synergized Collaboration of Asymmetric Language Translation Engines**
   
-  Xin Cheng, Xun Wang, **Tao Ge<sup>+</sup>**, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan
+  Xin Cheng, Xun Wang, **Tao Ge**, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan
   
   [https://arxiv.org/abs/2309.17061](https://arxiv.org/abs/2309.17061)
 
