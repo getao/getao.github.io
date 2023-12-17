@@ -12,14 +12,28 @@ redirect_from:
 
 # About
 
-Dr. Tao Ge worked at Microsoft Research (MSR) as a Principal Researcher with broad research interests in Natural Language Processing, especially in generative language models. Dr. Tao Ge focused on generative language models, and was responsible for efficient and lightweight modeling and inference for LM deployment in practice for products (e.g., various writing assistant features in Microsoft 365). Dr. Tao Ge has published 40+ papers at top-tier Artificial Intelligence conferences (e.g., ACL, EMNLP, NAACL, NeurIPS, ICLR, AAAI, IJCAI) and serve as the (senior) area chair and program committee member for the conferences. 
+I was a Principal Researcher at Microsoft Research (MSR) with a focus on Natural Language Processing and a specialization in generative language models. I have published over 40 papers at leading Artificial Intelligence conferences such as ACL, NeurIPS, ICLR, EMNLP and NAACL. I have served as a (senior) area chair and program committee member for these conferences. 
 
-Before joining MSR, Dr. Tao Ge obtained his PhD degree from Peking University in 2017.
+Beyond academia, I was responsible for the development and deployment of generative models within Microsoft 365. I architected and delivered models for most visible and utilized features in Microsoft Editor, revolutionizing the writing experience for hundreds of millions of M365 users with cutting-edge AI technologies.
+
 
 <span class='anchor' id='publications'></span>
 
 # Publications (<sup>\#</sup>: students I mentored; <sup>\*</sup>: equal contributions; <sup>\+</sup>: Corresponding author)
 ## Preprint
+
+- **ALYMPICS: Language Agents Meet Game Theory**
+  
+  Shaoguang Mao, Yuzhe Cai, Yan Xia, Wenshan Wu, Xun Wang, Fengyi Wang, **Tao Ge<sup>+</sup>**, Furu Wei
+  
+  [https://arxiv.org/abs/2311.03220](https://arxiv.org/abs/2311.03220)
+
+- **SCALE: Synergized Collaboration of Asymmetric Language Translation Engines**
+  
+  Xin Cheng, Xun Wang, **Tao Ge<sup>+</sup>**, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan
+  
+  [https://arxiv.org/abs/2309.17061](https://arxiv.org/abs/2309.17061)
+
 
 - **In-context Autoencoder for Context Compression in a Large Language Model**
   
@@ -56,13 +70,13 @@ Before joining MSR, Dr. Tao Ge obtained his PhD degree from Peking University in
   
   Heming Xia<sup>\#</sup>, **Tao Ge<sup>\*</sup><sup>\+</sup>**, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui
   
-  To appear in Findings of **EMNLP 2023** (Originally announced in March 2022: [https://arxiv.org/abs/2203.16487](https://arxiv.org/abs/2203.16487), **the first work proposing Speculative Decoding** that introduces an independent draft model to accelerate generation explicitly with the idea of speculative execution)
+  In Findings of **EMNLP 2023** (Originally announced in March 2022: [https://arxiv.org/abs/2203.16487](https://arxiv.org/abs/2203.16487), **the first work proposing Speculative Decoding** that introduces an independent draft model to accelerate generation explicitly with the idea of speculative execution)
 
-- **Extensible Prompts for Language Models**
+- **Extensible Prompts for Language Models on Zero-shot Language Style Customization**
   
   **Tao Ge<sup>\+</sup>**, Jing Hu<sup>\#</sup>, Li Dong, Shaoguang Mao, Yan Xia, Xun Wang, Si-Qing Chen, Furu Wei
   
-  To appear in **NeurIPS 2023**
+  In **NeurIPS 2023**
 
 - **Smart Word Suggestions for Writing Assistance**
   
