@@ -36,13 +36,6 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
   
   [https://arxiv.org/abs/2309.17061](https://arxiv.org/abs/2309.17061)
 
-
-- **In-context Autoencoder for Context Compression in a Large Language Model**
-  
-  **Tao Ge<sup>\+</sup>**, Jing Hu<sup>\#</sup>, Lei Wang<sup>\#</sup>, Xun Wang, Si-Qing Chen, Furu Wei
-  
-  [https://arxiv.org/abs/2307.16371](https://arxiv.org/abs/2307.16371)
-
 - **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
   
   Zhenhailong Wang<sup>\#</sup>, Shaoguang Mao, Wenshan Wu, **Tao Ge**, Furu Wei, Heng Ji
@@ -68,6 +61,13 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
   [https://arxiv.org/abs/2303.01421](https://arxiv.org/abs/2303.01421)
 
 ## Peer-reviewed
+
+- **In-context Autoencoder for Context Compression in a Large Language Model**
+  
+  **Tao Ge<sup>\+</sup>**, Jing Hu<sup>\#</sup>, Lei Wang<sup>\#</sup>, Xun Wang, Si-Qing Chen, Furu Wei
+  
+  To appear in **ICLR 2024**
+
 - **Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**
   
   Heming Xia<sup>\#</sup>, **Tao Ge<sup>\*</sup><sup>\+</sup>**, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui
