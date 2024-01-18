@@ -50,7 +50,7 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
   Guangyue Peng<sup>\#</sup>, **Tao Ge<sup>\+</sup>**, Si-Qing Chen, Furu Wei, Houfeng Wang
 
 ## Tech Report
-- [Lossless Acceleration for Seq2seq Generation with Aggressive Decoding](https://arxiv.org/abs/2205.10350) (earlier comprehensive tech report of my proposed Speculative Decoding)
+- [Lossless Acceleration for Seq2seq Generation with Aggressive Decoding](https://arxiv.org/abs/2205.10350) (earlier tech report of my proposed Speculative Decoding)
 
   **Tao Ge**, Heming Xia, Xin Sun, Si-Qing Chen, Furu Wei
 
@@ -64,7 +64,7 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 - **In-context Autoencoder for Context Compression in a Large Language Model**
 
   **Tao Ge<sup>\+</sup>**, Jing Hu<sup>\#</sup>, Lei Wang<sup>\#</sup>, Xun Wang, Si-Qing Chen, Furu Wei
-  
+
   To appear in **ICLR 2024**
 
 - **Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**
