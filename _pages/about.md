@@ -22,43 +22,25 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 <span class='anchor' id='publications'></span>
 
 # Publications (<sup>\#</sup>: students I mentored; <sup>\*</sup>: equal contributions; <sup>\+</sup>: Corresponding author)
-## Preprint
 
-- **ALYMPICS: Language Agents Meet Game Theory**
-  
+- [ALYMPICS: Language Agents Meet Game Theory](https://arxiv.org/abs/2311.03220)  
   Shaoguang Mao, Yuzhe Cai, Yan Xia, Wenshan Wu, Xun Wang, Fengyi Wang, **Tao Ge**, Furu Wei
-  
-  [https://arxiv.org/abs/2311.03220](https://arxiv.org/abs/2311.03220)
 
-- **SCALE: Synergized Collaboration of Asymmetric Language Translation Engines**
-  
+- [SCALE: Synergized Collaboration of Asymmetric Language Translation Engines](https://arxiv.org/abs/2309.17061)  
   Xin Cheng<sup>\#</sup>, Xun Wang, **Tao Ge**, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan
-  
-  [https://arxiv.org/abs/2309.17061](https://arxiv.org/abs/2309.17061)
 
-- **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
-  
+- [Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)  
   Zhenhailong Wang<sup>\#</sup>, Shaoguang Mao, Wenshan Wu, **Tao Ge**, Furu Wei, Heng Ji
-  
-  [https://arxiv.org/abs/2307.05300](https://arxiv.org/abs/2307.05300)
 
-- **Low-code LLM: Visual Programming over LLMs**
-  
+- [Low-code LLM: Visual Programming over LLMs](https://arxiv.org/abs/2304.08103)  
   Yuzhe Cai, Shaoguang Mao, Wenshan Wu, Zehua Wang, Yaobo Liang, **Tao Ge**, Chenfei Wu, Wang You, Ting Song, Yan Xia, Jonathan Tien, Nan Duan
-  
-  [https://arxiv.org/abs/2304.08103](https://arxiv.org/abs/2304.08103)
 
-- **Inference with Reference: Lossless Acceleration of Large Language Models**
-  
+- [Inference with Reference: Lossless Acceleration of Large Language Models](https://arxiv.org/abs/2304.04487)  
   Nan Yang, **Tao Ge**, Liang Wang, Binxing Jiao, Daxin Jiang, Linjun Yang, Rangan Majumder, Furu Wei
-  
-  [https://arxiv.org/abs/2304.04487](https://arxiv.org/abs/2304.04487)
 
-- **Semiparametric Language Models Are Scalable Continual Learners**
-  
+- [Semiparametric Language Models Are Scalable Continual Learners](https://arxiv.org/abs/2303.01421)  
   Guangyue Peng<sup>\#</sup>, **Tao Ge<sup>\+</sup>**, Si-Qing Chen, Furu Wei, Houfeng Wang
-  
-  [https://arxiv.org/abs/2303.01421](https://arxiv.org/abs/2303.01421)
+
 
 ## Peer-reviewed
 
