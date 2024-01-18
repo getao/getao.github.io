@@ -26,35 +26,45 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 ## Preprint
 
 - [ALYMPICS: Language Agents Meet Game Theory](https://arxiv.org/abs/2311.03220)  
+
   Shaoguang Mao, Yuzhe Cai, Yan Xia, Wenshan Wu, Xun Wang, Fengyi Wang, **Tao Ge**, Furu Wei
 
 - [SCALE: Synergized Collaboration of Asymmetric Language Translation Engines](https://arxiv.org/abs/2309.17061)  
+
   Xin Cheng<sup>\#</sup>, Xun Wang, **Tao Ge**, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan
 
 - [Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration](https://arxiv.org/abs/2307.05300)  
+
   Zhenhailong Wang<sup>\#</sup>, Shaoguang Mao, Wenshan Wu, **Tao Ge**, Furu Wei, Heng Ji
 
 - [Low-code LLM: Visual Programming over LLMs](https://arxiv.org/abs/2304.08103)
+
   Yuzhe Cai, Shaoguang Mao, Wenshan Wu, Zehua Wang, Yaobo Liang, **Tao Ge**, Chenfei Wu, Wang You, Ting Song, Yan Xia, Jonathan Tien, Nan Duan
 
 - [Inference with Reference: Lossless Acceleration of Large Language Models](https://arxiv.org/abs/2304.04487)  
+
   Nan Yang, **Tao Ge**, Liang Wang, Binxing Jiao, Daxin Jiang, Linjun Yang, Rangan Majumder, Furu Wei
 
 - [Semiparametric Language Models Are Scalable Continual Learners](https://arxiv.org/abs/2303.01421)  
+
   Guangyue Peng<sup>\#</sup>, **Tao Ge<sup>\+</sup>**, Si-Qing Chen, Furu Wei, Houfeng Wang
 
 ## Tech Report
 - [Lossless Acceleration for Seq2seq Generation with Aggressive Decoding](https://arxiv.org/abs/2205.10350) (earlier comprehensive tech report of my proposed Speculative Decoding)
+
   **Tao Ge**, Heming Xia, Xin Sun, Si-Qing Chen, Furu Wei
 
 - [Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study](https://arxiv.org/abs/1807.01270)  
+
   **Tao Ge**, Furu Wei, Ming Zhou
 
 
 ## Peer-reviewed
 
 - **In-context Autoencoder for Context Compression in a Large Language Model**
+
   **Tao Ge<sup>\+</sup>**, Jing Hu<sup>\#</sup>, Lei Wang<sup>\#</sup>, Xun Wang, Si-Qing Chen, Furu Wei
+  
   To appear in **ICLR 2024**
 
 - **Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**
