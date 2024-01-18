@@ -23,6 +23,8 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
 # Publications (<sup>\#</sup>: students I mentored; <sup>\*</sup>: equal contributions; <sup>\+</sup>: Corresponding author)
 
+## Preprint
+
 - [ALYMPICS: Language Agents Meet Game Theory](https://arxiv.org/abs/2311.03220)  
   Shaoguang Mao, Yuzhe Cai, Yan Xia, Wenshan Wu, Xun Wang, Fengyi Wang, **Tao Ge**, Furu Wei
 
@@ -40,6 +42,13 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
 - [Semiparametric Language Models Are Scalable Continual Learners](https://arxiv.org/abs/2303.01421)  
   Guangyue Peng<sup>\#</sup>, **Tao Ge<sup>\+</sup>**, Si-Qing Chen, Furu Wei, Houfeng Wang
+
+## Tech Report
+- [Lossless Acceleration for Seq2seq Generation with Aggressive Decoding](https://arxiv.org/abs/2205.10350)  
+  **Tao Ge**, Heming Xia, Xin Sun, Si-Qing Chen, Furu Wei
+
+- [Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study](https://arxiv.org/abs/1807.01270)  
+  **Tao Ge**, Furu Wei, Ming Zhou
 
 
 ## Peer-reviewed
