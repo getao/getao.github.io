@@ -54,9 +54,7 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 ## Peer-reviewed
 
 - **In-context Autoencoder for Context Compression in a Large Language Model**
-  
   **Tao Ge<sup>\+</sup>**, Jing Hu<sup>\#</sup>, Lei Wang<sup>\#</sup>, Xun Wang, Si-Qing Chen, Furu Wei
-  
   To appear in **ICLR 2024**
 
 - **Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**
