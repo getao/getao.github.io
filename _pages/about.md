@@ -25,11 +25,11 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
 ## Preprint
 
-  - [24.02] [K-Level Reasoning with Large Language Models](https://arxiv.org/abs/2402.01521)
+- [24.02] [K-Level Reasoning with Large Language Models](https://arxiv.org/abs/2402.01521)
   
   Yadong Zhang, Shaoguang Mao<sup>\+</sup>, **Tao Ge<sup>\+</sup>**, Xun Wang, Yan Xia, Man Lan, Furu Wei
 
-  - [24.01] [Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding](https://arxiv.org/abs/2401.07851) 
+- [24.01] [Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding](https://arxiv.org/abs/2401.07851) 
   
   Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, **Tao Ge**, Tianyu Liu, Wenjie Li, Zhifang Sui
 
