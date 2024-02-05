@@ -60,7 +60,7 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 ## Tech Report
 - [22.05] [Lossless Acceleration for Seq2seq Generation with Aggressive Decoding](https://arxiv.org/abs/2205.10350) (an earlier tech report of my proposed Speculative Decoding)
 
-  **Tao Ge**, Heming Xia, Xin Sun, Si-Qing Chen, Furu Wei
+  **Tao Ge**, Heming Xia<sup>\#</sup>, Xin Sun<sup>\#</sup>, Si-Qing Chen, Furu Wei
 
 - [18.07] [Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study](https://arxiv.org/abs/1807.01270)  
 
