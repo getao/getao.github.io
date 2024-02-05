@@ -16,7 +16,7 @@ I was a Principal Researcher at Microsoft Research (MSR) in the Natural Language
 
 Beyond research, I was responsible for the development and deployment of advanced generative models within Microsoft 365 and Office products. I architected and delivered state-of-the-art generative models with [highly optimized efficiency](https://www.microsoft.com/en-us/research/blog/achieving-zero-cogs-with-microsoft-editor-neural-grammar-checker/) that stems from my proposed novel approaches for low-cost GenAI (e.g., [Aggressive Decoding](https://arxiv.org/abs/2106.04970), [Speculative Decoding](https://arxiv.org/abs/2203.16487) and [EdgeFormer](https://arxiv.org/abs/2202.07959)), enabling the large-scale deployment of these models across various endpoints within our product suite (e.g., Word, Outlook and Edge). The innovative models I developed and rolled out handle **billions of user requests daily**, amounting to a yearly total that reaches into the **trillions**, as the most visible and used generative models in Microsoft Editor that transform the writing experience for millions of M365 and Office users with significant product impact.
 
-Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, advised by Prof. [Zhifang Sui](https://cs.pku.edu.cn/info/1226/2014.htm). During my doctoral studies, I also had the privilege of working with Prof. [Heng Ji](https://cs.illinois.edu/about/people/department-faculty/hengji) during my visit to Rensselaer Polytechnic Institute (RPI), and with Dr. [Jun Suzuki](https://www.fai.cds.tohoku.ac.jp/members/js/) and Dr. [Masaaki Nagata](https://www.rd.ntt/e/organization/researcher/superior/s_011.html) during my visit to NTT Communication Science Laboratories.
+Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, advised by Prof. [Zhifang Sui](https://cs.pku.edu.cn/info/1226/2014.htm), [Baobao Chang](https://cs.pku.edu.cn/info/1237/2150.htm) and [Sujian Li](https://cs.pku.edu.cn/info/1219/1998.htm). During my doctoral studies, I also had the privilege of working with Prof. [Heng Ji](https://cs.illinois.edu/about/people/department-faculty/hengji) during my visit to Rensselaer Polytechnic Institute (RPI), and with Dr. [Jun Suzuki](https://www.fai.cds.tohoku.ac.jp/members/js/) and Dr. [Masaaki Nagata](https://www.rd.ntt/e/organization/researcher/superior/s_011.html) during my visit to NTT Communication Science Laboratories.
 
 
 <span class='anchor' id='publications'></span>
@@ -24,6 +24,14 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 # Publications (<sup>\#</sup>: students I mentored; <sup>\*</sup>: equal contributions; <sup>\+</sup>: Corresponding author)
 
 ## Preprint
+
+  - [24.02] [K-Level Reasoning with Large Language Models](https://arxiv.org/abs/2402.01521)
+  
+  Yadong Zhang, Shaoguang Mao<sup>\+</sup>, **Tao Ge<sup>\+</sup>**, Xun Wang, Yan Xia, Man Lan, Furu Wei
+
+  - [24.01] [Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding](https://arxiv.org/abs/2401.07851) 
+  
+  Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, **Tao Ge**, Tianyu Liu, Wenjie Li, Zhifang Sui
 
 - [23.11] [ALYMPICS: Language Agents Meet Game Theory](https://arxiv.org/abs/2311.03220)  
 
