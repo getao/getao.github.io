@@ -41,10 +41,6 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
   Xin Cheng<sup>\#</sup>, Xun Wang, **Tao Ge**, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan
 
-- [23.04] [Low-code LLM: Visual Programming over LLMs](https://arxiv.org/abs/2304.08103)
-
-  Yuzhe Cai, Shaoguang Mao, Wenshan Wu, Zehua Wang, Yaobo Liang, **Tao Ge**, Chenfei Wu, Wang You, Ting Song, Yan Xia, Jonathan Tien, Nan Duan
-
 - [23.04] [Inference with Reference: Lossless Acceleration of Large Language Models](https://arxiv.org/abs/2304.04487)  
 
   Nan Yang, **Tao Ge**, Liang Wang, Binxing Jiao, Daxin Jiang, Linjun Yang, Rangan Majumder, Furu Wei
@@ -64,6 +60,12 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
 
 ## Peer-reviewed
+
+- **Low-code LLM: Visual Programming over LLMs**
+
+  Yuzhe Cai, Shaoguang Mao, Wenshan Wu, Zehua Wang, Yaobo Liang, **Tao Ge**, Chenfei Wu, Wang You, Ting Song, Yan Xia, Jonathan Tien, Nan Duan
+
+  To appear in **NAACL 2024** Demo Track
 
 - **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
 
