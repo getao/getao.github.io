@@ -63,13 +63,13 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
 - **Low-code LLM: Visual Programming over LLMs**
 
-  Yuzhe Cai, Shaoguang Mao, Wenshan Wu, Zehua Wang, Yaobo Liang, **Tao Ge<sup>\+</sup>**, Chenfei Wu, Wang You, Ting Song, Yan Xia, Jonathan Tien, Nan Duan
+  Yuzhe Cai, Shaoguang Mao, Wenshan Wu, Zehua Wang, Yaobo Liang, **Tao Ge**, Chenfei Wu, Wang You, Ting Song, Yan Xia, Jonathan Tien, Nan Duan
 
   To appear in **NAACL 2024** Demo Track
 
 - **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
 
-  Zhenhailong Wang<sup>\#</sup>, Shaoguang Mao, Wenshan Wu, **Tao Ge**, Furu Wei, Heng Ji
+  Zhenhailong Wang<sup>\#</sup>, Shaoguang Mao, Wenshan Wu, **Tao Ge<sup>\+</sup>**, Furu Wei, Heng Ji
 
   To appear in **NAACL 2024**
 
