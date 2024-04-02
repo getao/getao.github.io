@@ -25,6 +25,10 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
 ## Preprint
 
+- [24.04] [LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models](https://arxiv.org/abs/2404.01230)
+
+  Yadong Zhang, Shaoguang Mao, **Tao Ge**, Xun Wang, Adrian de Wynter, Yan Xia, Wenshan Wu, Ting Song, Man Lan, Furu Wei
+
 - [24.02] [K-Level Reasoning with Large Language Models](https://arxiv.org/abs/2402.01521)
   
   Yadong Zhang, Shaoguang Mao<sup>\+</sup>, **Tao Ge<sup>\+</sup>**, Xun Wang, Yan Xia, Man Lan, Furu Wei
