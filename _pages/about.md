@@ -33,17 +33,9 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
   
   Yadong Zhang, Shaoguang Mao<sup>\+</sup>, **Tao Ge<sup>\+</sup>**, Xun Wang, Yan Xia, Man Lan, Furu Wei
 
-- [24.01] [Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding](https://arxiv.org/abs/2401.07851) 
-  
-  Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, **Tao Ge**, Tianyu Liu, Wenjie Li, Zhifang Sui
-
 - [23.11] [ALYMPICS: Language Agents Meet Game Theory](https://arxiv.org/abs/2311.03220)  
 
   Shaoguang Mao, Yuzhe Cai, Yan Xia, Wenshan Wu, Xun Wang, Fengyi Wang, **Tao Ge**, Furu Wei
-
-- [23.09] [SCALE: Synergized Collaboration of Asymmetric Language Translation Engines](https://arxiv.org/abs/2309.17061)  
-
-  Xin Cheng<sup>\#</sup>, Xun Wang, **Tao Ge**, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan
 
 - [23.04] [Inference with Reference: Lossless Acceleration of Large Language Models](https://arxiv.org/abs/2304.04487)  
 
@@ -65,9 +57,27 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
 ## Peer-reviewed
 
+- **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**
+
+  Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, **Tao Ge**, Tianyu Liu, Wenjie Li, Zhifang Sui
+
+  To appear in **ACL 2024** Findings
+
+- **SCALE: Synergized Collaboration of Asymmetric Language Translation Engines**
+
+  Xin Cheng<sup>\#</sup>, Xun Wang, **Tao Ge**, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan
+
+  To appear in **ACL 2024** Findings
+
+- **Refining Corpora from a Model Calibration Perspective for Chinese Spelling Correction**
+
+  Dingyao Yu, Yang An, Wei Ye, xiongfeng xiao, Shaoguang Mao, **Tao Ge**, Shikun Zhang
+
+  To appear in **ACL 2024** Findings
+
 - **Low-code LLM: Visual Programming over LLMs**
 
-  Yuzhe Cai, Shaoguang Mao, Wenshan Wu, Zehua Wang, Yaobo Liang, **Tao Ge**, Chenfei Wu, Wang You, Ting Song, Yan Xia, Jonathan Tien, Nan Duan
+  Yuzhe Cai, Shaoguang Mao, Wenshan Wu, Zehua Wang, Yaobo Liang, **Tao Ge**, Chenfei Wu, Wang You, Ting Song, Yan Xia, Jonathan Tien, Nan Duan, Furu Wei
 
   To appear in **NAACL 2024** Demo Track
 
