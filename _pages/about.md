@@ -61,19 +61,19 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
   Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, **Tao Ge**, Tianyu Liu, Wenjie Li, Zhifang Sui
 
-  To appear in **ACL 2024** Findings
+  To appear in Findings of **ACL 2024**
 
 - **SCALE: Synergized Collaboration of Asymmetric Language Translation Engines**
 
   Xin Cheng<sup>\#</sup>, Xun Wang, **Tao Ge**, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan
 
-  To appear in **ACL 2024** Findings
+  To appear in Findings of **ACL 2024**
 
 - **Refining Corpora from a Model Calibration Perspective for Chinese Spelling Correction**
 
   Dingyao Yu, Yang An, Wei Ye, xiongfeng xiao, Shaoguang Mao, **Tao Ge**, Shikun Zhang
 
-  To appear in **ACL 2024** Findings
+  To appear in Findings of **ACL 2024**
 
 - **Low-code LLM: Visual Programming over LLMs**
 
