@@ -51,7 +51,7 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
 ## Tech Report
 
-- [24.06] [Scaling synthetic data creation with 1,000,000,000 personas](https://getao.github.io/files/personahub.pdf)
+- [24.06] [Scaling Synthetic Data Creation with 1,000,000,000 Personas](https://getao.github.io/files/personahub.pdf)
 
   **Tao Ge**, Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu
 
