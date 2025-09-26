@@ -54,7 +54,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
 ## Peer-reviewed
 
-- ![](https://img.shields.io/badge/NeurIPS-25-lightgrey?labelColor=red) ![](https://img.shields.io/badge/Spotlight-lightgrey?labelColor=gold) [**Improving LLM General Preference Alignment via Optimistic Online Mirror Descent**](https://arxiv.org/abs/2410.13184)
+- ![](https://img.shields.io/badge/NeurIPS-25-lightgrey?labelColor=red) ![](https://img.shields.io/badge/Spotlight-gold) [**Improving LLM General Preference Alignment via Optimistic Online Mirror Descent**](https://arxiv.org/abs/2410.13184)
 
   Yuheng Zhang, Dian Yu, **Tao Ge**, Linfeng Song, Zhichen Zeng, Haitao Mi, Nan Jiang, Dong Yu
 
@@ -94,15 +94,15 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   Xin Cheng, Xun Wang, Xingxing Zhang, **Tao Ge**, Si-Qing Chen, Furu Wei, Huishuai Zhang, Dongyan Zhao
 
-- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=lightblue) **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**
+- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=darkred) **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**
 
   Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, **Tao Ge**, Tianyu Liu, Wenjie Li, Zhifang Sui
 
-- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=lightblue) **SCALE: Synergized Collaboration of Asymmetric Language Translation Engines**
+- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=darkred) **SCALE: Synergized Collaboration of Asymmetric Language Translation Engines**
 
   Xin Cheng, Xun Wang, **Tao Ge**, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan
 
-- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=lightblue) **Refining Corpora from a Model Calibration Perspective for Chinese Spelling Correction**
+- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=darkred) **Refining Corpora from a Model Calibration Perspective for Chinese Spelling Correction**
 
   Dingyao Yu, Yang An, Wei Ye, xiongfeng xiao, Shaoguang Mao, **Tao Ge**, Shikun Zhang
 
@@ -110,7 +110,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   Yuzhe Cai, Shaoguang Mao, Wenshan Wu, Zehua Wang, Yaobo Liang, **Tao Ge**, Chenfei Wu, Wang You, Ting Song, Yan Xia, Jonathan Tien, Nan Duan, Furu Wei
 
-- ![](https://img.shields.io/badge/NAACL-24-orange) **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
+- ![](https://img.shields.io/badge/NAACL-24-lightgrey?labelColor=red) **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
 
   Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, **<span class="corresponding-author">Tao Ge</span>**, Furu Wei, Heng Ji
 
@@ -118,7 +118,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   **<span class="corresponding-author">Tao Ge</span>**, Jing Hu, Lei Wang, Xun Wang, Si-Qing Chen, Furu Wei
 
-- ![](https://img.shields.io/badge/EMNLP%20Findings-23-lightgrey?labelColor=lightblue) **Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**
+- ![](https://img.shields.io/badge/EMNLP%20Findings-23-lightgrey?labelColor=darkred) **Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**
 
   Heming Xia<sup>\*</sup>, **<span class="corresponding-author">Tao Ge</span>**<sup>\*</sup>, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui
 
@@ -128,7 +128,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   **<span class="corresponding-author">Tao Ge</span>**, Jing Hu, Li Dong, Shaoguang Mao, Yan Xia, Xun Wang, Si-Qing Chen, Furu Wei
 
-- ![](https://img.shields.io/badge/ACL%20Findings-23-lightgrey?labelColor=lightblue) **Smart Word Suggestions for Writing Assistance**
+- ![](https://img.shields.io/badge/ACL%20Findings-23-lightgrey?labelColor=darkred) **Smart Word Suggestions for Writing Assistance**
 
   Chenshuo Wang, Shaoguang Mao, **Tao Ge**, Wenshan Wu, Xun Wang, Yan Xia, Jonathan Tien, Dongyan Zhao
 
@@ -192,15 +192,15 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   Canwen Xu<sup>\*</sup>, Wangchunshu Zhou<sup>\*</sup>, **<span class="corresponding-author">Tao Ge</span>**, Ke Xu, Julian McAuley, Furu Wei, Ming Zhou
 
-- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=lightblue) **Pseudo-Bidirectional Decoding for Local Sequence Transduction**
+- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=darkred) **Pseudo-Bidirectional Decoding for Local Sequence Transduction**
 
   Wangchunshu Zhou, **Tao Ge**, Chang Mu, Ke Xu, Furu Wei, Ming Zhou
 
-- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=lightblue) **Improving Grammatical Error Correction with Machine Translation Pairs**
+- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=darkred) **Improving Grammatical Error Correction with Machine Translation Pairs**
 
   Wangchunshu Zhou, **Tao Ge**, Ke Xu, Furu Wei, Ming Zhou
 
-- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=lightblue) **Scheduled DropHead: A Regularization Method for Transformer Models**
+- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=darkred) **Scheduled DropHead: A Regularization Method for Transformer Models**
 
   Wangchunshu Zhou, **Tao Ge**, Furu Wei, Ming Zhou, Ke Xu
 
@@ -256,7 +256,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
   **Tao Ge**, Lei Cui, Heng Ji, Baobao Chang, Sujian Li, Ming Zhou, Zhifang Sui
   
 
-- ![](https://img.shields.io/badge/NLPCC-16-lightgrey?labelColor=orange) ![](https://img.shields.io/badge/Best%20Student%20Paper-lightgrey?labelColor=gold) **Discovering Concept-level Event Associations from a Text Stream**
+- ![](https://img.shields.io/badge/NLPCC-16-lightgrey?labelColor=orange) ![](https://img.shields.io/badge/Best%20Student%20Paper-gold) **Discovering Concept-level Event Associations from a Text Stream**
 
   **Tao Ge**, Lei Cui, Heng Ji, Baobao Chang, Zhifang Sui
 
