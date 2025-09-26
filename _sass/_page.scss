@@ -410,3 +410,21 @@
   font-size: $type-size-6;
   text-transform: uppercase;
 }
+
+/*
+   通讯作者信封图标样式
+   ========================================================================== */
+
+.corresponding-author {
+  position: relative;
+
+  &::after {
+    content: "\2709"; /* Unicode 信封符号 */
+    position: absolute;
+    top: -0.5em;
+    right: -0.8em;
+    font-size: 0.7em;
+    color: #666;
+    vertical-align: super;
+  }
+}
