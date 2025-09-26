@@ -21,7 +21,7 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
 <span class='anchor' id='publications'></span>
 
-# Publications (<sup>\*</sup>: equal contributions; ✉: Corresponding author)
+# Publications (<sup>\*</sup>: equal contributions; ✉: corresponding author)
 
 ## Preprint
 
@@ -68,7 +68,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
 - ![](https://img.shields.io/badge/ACL-25-lightgrey?labelColor=red) [**Learn to Memorize: Scalable Continual Learning in Semiparametric Models with Mixture-of-Neighbors Induction Memory**](https://aclanthology.org/2025.acl-long.1385/)
 
-  Guangyue Peng, **<span class="corresponding-author">Tao Ge</span>**, Si-Qing Chen, Furu Wei, Houfeng Wang
+  Guangyue Peng, **Tao Ge**✉, Si-Qing Chen, Furu Wei, Houfeng Wang
 
 - ![](https://img.shields.io/badge/NAACL-25-lightgrey?labelColor=red) [**K-Level Reasoning: Establishing Higher Order Beliefs in Large Language Models for Strategic Reasoning**](https://aclanthology.org/2025.naacl-long.370/)
 
@@ -112,21 +112,21 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
 - ![](https://img.shields.io/badge/NAACL-24-lightgrey?labelColor=red) **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
 
-  Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, **<span class="corresponding-author">Tao Ge</span>**, Furu Wei, Heng Ji
+  Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, **Tao Ge**✉, Furu Wei, Heng Ji
 
 - ![](https://img.shields.io/badge/ICLR-24-lightgrey?labelColor=red) **In-context Autoencoder for Context Compression in a Large Language Model**
 
-  **<span class="corresponding-author">Tao Ge</span>**, Jing Hu, Lei Wang, Xun Wang, Si-Qing Chen, Furu Wei
+  **Tao Ge**✉, Jing Hu, Lei Wang, Xun Wang, Si-Qing Chen, Furu Wei
 
 - ![](https://img.shields.io/badge/EMNLP%20Findings-23-lightgrey?labelColor=tomato) **Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**
 
-  Heming Xia<sup>\*</sup>, **<span class="corresponding-author">Tao Ge</span>**<sup>\*</sup>, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui
+  Heming Xia<sup>\*</sup>, **Tao Ge**✉<sup>\*</sup>, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui
 
   (Originally announced in March 2022: [https://arxiv.org/abs/2203.16487](https://arxiv.org/abs/2203.16487), **the first work proposing Speculative Decoding** that introduces an independent draft model to accelerate generation explicitly with the idea of speculative execution)
 
 - ![](https://img.shields.io/badge/NeurIPS-23-lightgrey?labelColor=red) **Extensible Prompts for Language Models on Zero-shot Language Style Customization**
 
-  **<span class="corresponding-author">Tao Ge</span>**, Jing Hu, Li Dong, Shaoguang Mao, Yan Xia, Xun Wang, Si-Qing Chen, Furu Wei
+  **Tao Ge**✉, Jing Hu, Li Dong, Shaoguang Mao, Yan Xia, Xun Wang, Si-Qing Chen, Furu Wei
 
 - ![](https://img.shields.io/badge/ACL%20Findings-23-lightgrey?labelColor=tomato) **Smart Word Suggestions for Writing Assistance**
 
@@ -150,11 +150,11 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
 - ![](https://img.shields.io/badge/AACL-22-lightgrey?labelColor=orange) **Plug and Play Knowledge Distillation for kNN-LM with External Logits**
 
-  Xuyang Jin, **<span class="corresponding-author">Tao Ge</span>**, Furu Wei
+  Xuyang Jin, **Tao Ge**✉, Furu Wei
 
 - ![](https://img.shields.io/badge/IJCAI-22-lightgrey?labelColor=red) **A Unified Strategy for Multilingual Grammatical Error Correction with Pre-trained Cross-lingual Language Model**
 
-  Xin Sun, **<span class="corresponding-author">Tao Ge</span>**, Shuming Ma, Jingjing Li, Furu Wei, Houfeng Wang
+  Xin Sun, **Tao Ge**✉, Shuming Ma, Jingjing Li, Furu Wei, Houfeng Wang
 
 - ![](https://img.shields.io/badge/AAAI-22-lightgrey?labelColor=red) **Text Revision by On-the-Fly Representation Optimization**
 
@@ -162,23 +162,23 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
 - ![](https://img.shields.io/badge/EMNLP-21-lightgrey?labelColor=red) **Beyond Preserved Accuracy: Evaluating Loyalty and Robustness of BERT Compression**
 
-  Canwen Xu, Wangchunshu Zhou, **<span class="corresponding-author">Tao Ge</span>**, Ke Xu, Julian McAuley, Furu Wei
+  Canwen Xu, Wangchunshu Zhou, **Tao Ge**✉, Ke Xu, Julian McAuley, Furu Wei
 
 - ![](https://img.shields.io/badge/EMNLP-21-lightgrey?labelColor=red) **Improving Sequence-to-Sequence Pre-training via Sequence Span Rewriting**
 
-  Wangchunshu Zhou, **<span class="corresponding-author">Tao Ge</span>**, Canwen Xu, Ke Xu, Furu Wei
+  Wangchunshu Zhou, **Tao Ge**✉, Canwen Xu, Ke Xu, Furu Wei
 
 - ![](https://img.shields.io/badge/ACL-21-lightgrey?labelColor=red) **Instantaneous Grammatical Error Correction with Shallow Aggressive Decoding**
 
-  Xin Sun<sup>\*</sup>, **<span class="corresponding-author">Tao Ge</span>**<sup>\*</sup>, Furu Wei, Houfeng Wang
+  Xin Sun<sup>\*</sup>, **Tao Ge**✉<sup>\*</sup>, Furu Wei, Houfeng Wang
 
 - ![](https://img.shields.io/badge/NAACL-21-lightgrey?labelColor=red) **Blow the Dog Whistle: A Dataset for Cant Creation, Understanding and Decryption in Chinese**
 
-  Canwen Xu<sup>\*</sup>, Wangchunshu Zhou<sup>\*</sup>, **<span class="corresponding-author">Tao Ge</span>**, Ke Xu, Julian McAuley, Furu Wei
+  Canwen Xu<sup>\*</sup>, Wangchunshu Zhou<sup>\*</sup>, **Tao Ge**✉, Ke Xu, Julian McAuley, Furu Wei
 
 - ![](https://img.shields.io/badge/NeurIPS-20-lightgrey?labelColor=red) **BERT Loses Patience: Fast and Robust Inference with Early Exit**
 
-  Wangchunshu Zhou, **<span class="corresponding-author">Tao Ge</span>**, Canwen Xu, Ke Xu, Julian McAuley, Furu Wei
+  Wangchunshu Zhou, **Tao Ge**✉, Canwen Xu, Ke Xu, Julian McAuley, Furu Wei
 
 - ![](https://img.shields.io/badge/AACL-20-lightgrey?labelColor=orange) **UnihanLM: Coarse-to-Fine Chinese-Japanese Language Model Pretraining with the Unihan Database**
 
@@ -186,11 +186,11 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
 - ![](https://img.shields.io/badge/EMNLP-20-lightgrey?labelColor=red) **Improving the Efficiency of Grammatical Error Correction with Erroneous Span Detection and Correction**
 
-  Mengyun Chen<sup>\*</sup>, **<span class="corresponding-author">Tao Ge</span>**<sup>\*</sup>, Xingxing Zhang, Furu Wei, Ming Zhou
+  Mengyun Chen<sup>\*</sup>, **Tao Ge**✉<sup>\*</sup>, Xingxing Zhang, Furu Wei, Ming Zhou
 
 - ![](https://img.shields.io/badge/EMNLP-20-lightgrey?labelColor=red) **BERT-of-Theseus: Compressing BERT by Progressive Module Replacing**
 
-  Canwen Xu<sup>\*</sup>, Wangchunshu Zhou<sup>\*</sup>, **<span class="corresponding-author">Tao Ge</span>**, Ke Xu, Julian McAuley, Furu Wei, Ming Zhou
+  Canwen Xu<sup>\*</sup>, Wangchunshu Zhou<sup>\*</sup>, **Tao Ge**✉, Ke Xu, Julian McAuley, Furu Wei, Ming Zhou
 
 - ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=tomato) **Pseudo-Bidirectional Decoding for Local Sequence Transduction**
 
