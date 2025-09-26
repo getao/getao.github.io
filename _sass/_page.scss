@@ -422,7 +422,7 @@
     content: "\2709"; /* Unicode 信封符号 */
     position: absolute;
     top: -0.5em;
-    right: -0.8em;
+    right: -1.2em; /* 向右移动更多，为星号留出空间 */
     font-size: 0.7em;
     color: #666;
     vertical-align: super;
