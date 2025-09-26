@@ -94,15 +94,15 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   Xin Cheng, Xun Wang, Xingxing Zhang, **Tao Ge**, Si-Qing Chen, Furu Wei, Huishuai Zhang, Dongyan Zhao
 
-- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=orangered) **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**
+- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=tomato) **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**
 
   Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, **Tao Ge**, Tianyu Liu, Wenjie Li, Zhifang Sui
 
-- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=orangered) **SCALE: Synergized Collaboration of Asymmetric Language Translation Engines**
+- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=tomato) **SCALE: Synergized Collaboration of Asymmetric Language Translation Engines**
 
   Xin Cheng, Xun Wang, **Tao Ge**, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan
 
-- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=orangered) **Refining Corpora from a Model Calibration Perspective for Chinese Spelling Correction**
+- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=tomato) **Refining Corpora from a Model Calibration Perspective for Chinese Spelling Correction**
 
   Dingyao Yu, Yang An, Wei Ye, xiongfeng xiao, Shaoguang Mao, **Tao Ge**, Shikun Zhang
 
@@ -118,7 +118,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   **<span class="corresponding-author">Tao Ge</span>**, Jing Hu, Lei Wang, Xun Wang, Si-Qing Chen, Furu Wei
 
-- ![](https://img.shields.io/badge/EMNLP%20Findings-23-lightgrey?labelColor=orangered) **Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**
+- ![](https://img.shields.io/badge/EMNLP%20Findings-23-lightgrey?labelColor=tomato) **Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation**
 
   Heming Xia<sup>\*</sup>, **<span class="corresponding-author">Tao Ge</span>**<sup>\*</sup>, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui
 
@@ -128,7 +128,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   **<span class="corresponding-author">Tao Ge</span>**, Jing Hu, Li Dong, Shaoguang Mao, Yan Xia, Xun Wang, Si-Qing Chen, Furu Wei
 
-- ![](https://img.shields.io/badge/ACL%20Findings-23-lightgrey?labelColor=orangered) **Smart Word Suggestions for Writing Assistance**
+- ![](https://img.shields.io/badge/ACL%20Findings-23-lightgrey?labelColor=tomato) **Smart Word Suggestions for Writing Assistance**
 
   Chenshuo Wang, Shaoguang Mao, **Tao Ge**, Wenshan Wu, Xun Wang, Yan Xia, Jonathan Tien, Dongyan Zhao
 
@@ -148,7 +148,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   **Tao Ge**, Si-Qing Chen, Furu Wei
 
-- ![](https://img.shields.io/badge/AACL--IJCNLP-22-lightgrey?labelColor=orange) **Plug and Play Knowledge Distillation for kNN-LM with External Logits**
+- ![](https://img.shields.io/badge/AACL-22-lightgrey?labelColor=orange) **Plug and Play Knowledge Distillation for kNN-LM with External Logits**
 
   Xuyang Jin, **<span class="corresponding-author">Tao Ge</span>**, Furu Wei
 
@@ -192,15 +192,15 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   Canwen Xu<sup>\*</sup>, Wangchunshu Zhou<sup>\*</sup>, **<span class="corresponding-author">Tao Ge</span>**, Ke Xu, Julian McAuley, Furu Wei, Ming Zhou
 
-- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=orangered) **Pseudo-Bidirectional Decoding for Local Sequence Transduction**
+- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=tomato) **Pseudo-Bidirectional Decoding for Local Sequence Transduction**
 
   Wangchunshu Zhou, **Tao Ge**, Chang Mu, Ke Xu, Furu Wei, Ming Zhou
 
-- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=orangered) **Improving Grammatical Error Correction with Machine Translation Pairs**
+- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=tomato) **Improving Grammatical Error Correction with Machine Translation Pairs**
 
   Wangchunshu Zhou, **Tao Ge**, Ke Xu, Furu Wei, Ming Zhou
 
-- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=orangered) **Scheduled DropHead: A Regularization Method for Transformer Models**
+- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=tomato) **Scheduled DropHead: A Regularization Method for Transformer Models**
 
   Wangchunshu Zhou, **Tao Ge**, Furu Wei, Ming Zhou, Ke Xu
 
@@ -300,7 +300,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
   **Tao Ge**, Wenjie Li, Zhifang Sui
   
 
-- ![](https://img.shields.io/badge/CIPS--SIGHAN-14-lightgrey?labelColor=orange) **The CIPS-SIGHAN CLP 2014 Chinese Word Segmentation Bake-off**
+- ![](https://img.shields.io/badge/SIGHAN-14-lightgrey?labelColor=orange) **The CIPS-SIGHAN CLP 2014 Chinese Word Segmentation Bake-off**
   
   Huiming Duan, Zhifang Sui, **Tao Ge**
   
