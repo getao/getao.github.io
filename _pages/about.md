@@ -21,7 +21,7 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
 <span class='anchor' id='publications'></span>
 
-# Publications (<sup>\*</sup>: equal contributions; ✉: corresponding author)
+# Publications (<sup>\*</sup>: equal contributions; <sup>✉</sup>: corresponding author)
 
 ## Preprint
 
@@ -64,7 +64,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
 - ![](https://img.shields.io/badge/ACL-25-lightgrey?labelColor=red) [**Low-Bit Quantization Favors Undertrained LLMs**](https://aclanthology.org/2025.acl-long.1555/)
 
-  Xu Ouyang, **Tao Ge**, Thomas Hartvigsen, Zhisong Zhang, Haitao Mi, Dong Yu
+  Xu Ouyang, **Tao Ge**<sup>✉</sup>, Thomas Hartvigsen, Zhisong Zhang, Haitao Mi, Dong Yu
 
 - ![](https://img.shields.io/badge/ACL-25-lightgrey?labelColor=red) [**Learn to Memorize: Scalable Continual Learning in Semiparametric Models with Mixture-of-Neighbors Induction Memory**](https://aclanthology.org/2025.acl-long.1385/)
 
@@ -94,27 +94,27 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   Xin Cheng, Xun Wang, Xingxing Zhang, **Tao Ge**, Si-Qing Chen, Furu Wei, Huishuai Zhang, Dongyan Zhao
 
-- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=tomato) **Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**
+- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=tomato) [**Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding**](https://aclanthology.org/2024.findings-acl.456/)
 
   Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, **Tao Ge**, Tianyu Liu, Wenjie Li, Zhifang Sui
 
-- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=tomato) **SCALE: Synergized Collaboration of Asymmetric Language Translation Engines**
+- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=tomato) [**SCALE: Synergized Collaboration of Asymmetric Language Translation Engines**](https://aclanthology.org/2024.findings-acl.941/)
 
   Xin Cheng, Xun Wang, **Tao Ge**, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan
 
-- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=tomato) **Refining Corpora from a Model Calibration Perspective for Chinese Spelling Correction**
+- ![](https://img.shields.io/badge/ACL%20Findings-24-lightgrey?labelColor=tomato) [**Refining Corpora from a Model Calibration Perspective for Chinese Spelling Correction**](https://aclanthology.org/2024.findings-acl.914/)
 
   Dingyao Yu, Yang An, Wei Ye, xiongfeng xiao, Shaoguang Mao, **Tao Ge**, Shikun Zhang
 
-- ![](https://img.shields.io/badge/NAACL%20Demo-24-lightgrey?labelColor=purple) **Low-code LLM: Visual Programming over LLMs**
+- ![](https://img.shields.io/badge/NAACL%20Demo-24-lightgrey?labelColor=purple) [**Low-code LLM: Visual Programming over LLMs**](https://aclanthology.org/2024.naacl-demo.2/)
 
   Yuzhe Cai, Shaoguang Mao, Wenshan Wu, Zehua Wang, Yaobo Liang, **Tao Ge**, Chenfei Wu, Wang You, Ting Song, Yan Xia, Jonathan Tien, Nan Duan, Furu Wei
 
-- ![](https://img.shields.io/badge/NAACL-24-lightgrey?labelColor=red) **Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**
+- ![](https://img.shields.io/badge/NAACL-24-lightgrey?labelColor=red) [**Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration**](https://aclanthology.org/2024.naacl-long.15/)
 
   Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, **Tao Ge**<sup>✉</sup>, Furu Wei, Heng Ji
 
-- ![](https://img.shields.io/badge/ICLR-24-lightgrey?labelColor=red) **In-context Autoencoder for Context Compression in a Large Language Model**
+- ![](https://img.shields.io/badge/ICLR-24-lightgrey?labelColor=red) [**In-context Autoencoder for Context Compression in a Large Language Model**](https://openreview.net/forum?id=uREj4ZuGJE)
 
   **Tao Ge**<sup>✉</sup>, Jing Hu, Lei Wang, Xun Wang, Si-Qing Chen, Furu Wei
 
@@ -124,15 +124,15 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   (Originally announced in March 2022: [https://arxiv.org/abs/2203.16487](https://arxiv.org/abs/2203.16487), **the first work proposing Speculative Decoding** that introduces an independent draft model to accelerate generation explicitly with the idea of speculative execution)
 
-- ![](https://img.shields.io/badge/NeurIPS-23-lightgrey?labelColor=red) **Extensible Prompts for Language Models on Zero-shot Language Style Customization**
+- ![](https://img.shields.io/badge/NeurIPS-23-lightgrey?labelColor=red) [**Extensible Prompts for Language Models on Zero-shot Language Style Customization**](https://papers.nips.cc/paper_files/paper/2023/hash/6fcbfb3721c1781728b10c6685cc2f6c-Abstract-Conference.html)
 
   **Tao Ge**<sup>✉</sup>, Jing Hu, Li Dong, Shaoguang Mao, Yan Xia, Xun Wang, Si-Qing Chen, Furu Wei
 
-- ![](https://img.shields.io/badge/ACL%20Findings-23-lightgrey?labelColor=tomato) **Smart Word Suggestions for Writing Assistance**
+- ![](https://img.shields.io/badge/ACL%20Findings-23-lightgrey?labelColor=tomato) [**Smart Word Suggestions for Writing Assistance**](https://aclanthology.org/2023.findings-acl.712/)
 
   Chenshuo Wang, Shaoguang Mao, **Tao Ge**, Wenshan Wu, Xun Wang, Yan Xia, Jonathan Tien, Dongyan Zhao
 
-- ![](https://img.shields.io/badge/NLPCC-23-lightgrey?labelColor=orange) **Enhancing Detailed Feedback to Chinese Writing Learners Using a Soft-Label Driven Approach and Tag-Aware Ranking Model**
+- ![](https://img.shields.io/badge/NLPCC-23-lightgrey?labelColor=orange) [**Enhancing Detailed Feedback to Chinese Writing Learners Using a Soft-Label Driven Approach and Tag-Aware Ranking Model**](https://link.springer.com/chapter/10.1007/978-3-031-44693-1_45)
 
   Yuzhe Cai, Shaoguang Mao, Chenshuo Wang, **Tao Ge**, Wenshan Wu, Yan Xia, Chanjin Zheng, Qiang Guan
 
@@ -144,7 +144,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   Xinshu Shen, Hongyi Wu, Xiaopeng Bai, Yuanbin Wu, Aimin Zhou, Shaoguang Mao, **Tao Ge**, Yan Xia
 
-- ![](https://img.shields.io/badge/EMNLP-22-lightgrey?labelColor=red) **EdgeFormer: A Parameter-Efficient Transformer for On-Device Seq2seq Generation**
+- ![](https://img.shields.io/badge/EMNLP-22-lightgrey?labelColor=red) [**EdgeFormer: A Parameter-Efficient Transformer for On-Device Seq2seq Generation**](https://aclanthology.org/2022.emnlp-main.741/)
 
   **Tao Ge**, Si-Qing Chen, Furu Wei
 
