@@ -25,29 +25,29 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
 ## Preprint
 
-- ![](https://img.shields.io/badge/arXiv-25.01-white?labelColor=lightgray) [**OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas**](https://arxiv.org/abs/2501.15427)
+- ![](https://img.shields.io/badge/arXiv-25.01-white?labelColor=brown) [**OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas**](https://arxiv.org/abs/2501.15427)
 
   Xiaoyang Wang, Hongming Zhang, **Tao Ge**, Wenhao Yu, Dian Yu, Dong Yu
 
-- ![](https://img.shields.io/badge/arXiv-24.10-white?labelColor=lightgray) [**ParallelSpec: Parallel Drafter for Efficient Speculative Decoding**](https://arxiv.org/pdf/2410.05589)
+- ![](https://img.shields.io/badge/arXiv-24.10-white?labelColor=brown) [**ParallelSpec: Parallel Drafter for Efficient Speculative Decoding**](https://arxiv.org/pdf/2410.05589)
 
   Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
-- ![](https://img.shields.io/badge/arXiv-23.04-white?labelColor=lightgray) [**Inference with Reference: Lossless Acceleration of Large Language Models**](https://arxiv.org/abs/2304.04487) (the innovation used in [OpenAI's Predicted Output](https://platform.openai.com/docs/guides/predicted-outputs)) 
+- ![](https://img.shields.io/badge/arXiv-23.04-white?labelColor=brown) [**Inference with Reference: Lossless Acceleration of Large Language Models**](https://arxiv.org/abs/2304.04487) (the innovation used in [OpenAI's Predicted Output](https://platform.openai.com/docs/guides/predicted-outputs)) 
 
   Nan Yang, **Tao Ge**, Liang Wang, Binxing Jiao, Daxin Jiang, Linjun Yang, Rangan Majumder, Furu Wei
 
 ## Tech Report
 
-- ![](https://img.shields.io/badge/arXiv-24.06-white?labelColor=lightgray) [**Scaling Synthetic Data Creation with 1,000,000,000 Personas**](https://arxiv.org/pdf/2406.20094)
+- ![](https://img.shields.io/badge/arXiv-24.06-white?labelColor=brown) [**Scaling Synthetic Data Creation with 1,000,000,000 Personas**](https://arxiv.org/pdf/2406.20094)
 
   **Tao Ge**, Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu
 
-- ![](https://img.shields.io/badge/arXiv-22.05-white?labelColor=lightgray) [**Lossless Acceleration for Seq2seq Generation with Aggressive Decoding**](https://arxiv.org/abs/2205.10350) (an earlier tech report of my proposed Speculative Decoding)
+- ![](https://img.shields.io/badge/arXiv-22.05-white?labelColor=brown) [**Lossless Acceleration for Seq2seq Generation with Aggressive Decoding**](https://arxiv.org/abs/2205.10350) (an earlier tech report of my proposed Speculative Decoding)
 
   **Tao Ge**, Heming Xia, Xin Sun, Si-Qing Chen, Furu Wei
 
-- ![](https://img.shields.io/badge/arXiv-18.07-white?labelColor=lightgray) [**Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study**](https://arxiv.org/abs/1807.01270)  
+- ![](https://img.shields.io/badge/arXiv-18.07-white?labelColor=brown) [**Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study**](https://arxiv.org/abs/1807.01270)  
 
   **Tao Ge**, Furu Wei, Ming Zhou
 
