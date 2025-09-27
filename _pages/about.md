@@ -136,11 +136,11 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   Yuzhe Cai, Shaoguang Mao, Chenshuo Wang, **Tao Ge**, Wenshan Wu, Yan Xia, Chanjin Zheng, Qiang Guan
 
-- ![](https://img.shields.io/badge/NLPCC-23-lightgrey?labelColor=orange) **Overview of the NLPCC 2023 Shared Task: Chinese Essay Discourse Coherence Evaluation**
+- ![](https://img.shields.io/badge/NLPCC-23-lightgrey?labelColor=orange) [**Overview of the NLPCC 2023 Shared Task: Chinese Essay Discourse Coherence Evaluation**](https://link.springer.com/chapter/10.1007/978-3-031-44699-3_26)
 
   Hongyi Wu, Xinshu Shen, Man Lan, Xiaopeng Bai, Yuanbin Wu, Aimin Zhou, Shaoguang Mao, **Tao Ge**, Yan Xia
 
-- ![](https://img.shields.io/badge/CCL-23-lightgrey?labelColor=orange) **Overview of CCL23-Eval Task 8: Chinese Essay Fluency Evaluation (CEFE) Task**
+- ![](https://img.shields.io/badge/CCL-23-lightgrey?labelColor=orange) [**Overview of CCL23-Eval Task 8: Chinese Essay Fluency Evaluation (CEFE) Task**](https://aclanthology.org/2023.ccl-3.31/)
 
   Xinshu Shen, Hongyi Wu, Xiaopeng Bai, Yuanbin Wu, Aimin Zhou, Shaoguang Mao, **Tao Ge**, Yan Xia
 
@@ -148,7 +148,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   **Tao Ge**, Si-Qing Chen, Furu Wei
 
-- ![](https://img.shields.io/badge/AACL-22-lightgrey?labelColor=orange) **Plug and Play Knowledge Distillation for kNN-LM with External Logits**
+- ![](https://img.shields.io/badge/AACL-22-lightgrey?labelColor=orange) [**Plug and Play Knowledge Distillation for kNN-LM with External Logits**](https://aclanthology.org/2022.aacl-short.57/)
 
   Xuyang Jin, **Tao Ge**<sup>✉</sup>, Furu Wei
 
@@ -200,54 +200,54 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   Wangchunshu Zhou, **Tao Ge**, Ke Xu, Furu Wei, Ming Zhou
 
-- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=tomato) **Scheduled DropHead: A Regularization Method for Transformer Models**
+- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=tomato) [**Scheduled DropHead: A Regularization Method for Transformer Models**](https://aclanthology.org/2020.findings-emnlp.178/)
 
   Wangchunshu Zhou, **Tao Ge**, Furu Wei, Ming Zhou, Ke Xu
 
-- ![](https://img.shields.io/badge/ACL-20-lightgrey?labelColor=red) **Parallel Data Augmentation for Formality Style Transfer**
+- ![](https://img.shields.io/badge/ACL-20-lightgrey?labelColor=red) [**Parallel Data Augmentation for Formality Style Transfer**](https://aclanthology.org/2020.acl-main.294/)
 
   Yi Zhang, **Tao Ge**, Xu Sun
 
-- ![](https://img.shields.io/badge/ICLR-20-lightgrey?labelColor=red) **Self-Adversarial Learning with Comparative Discrimination for Text Generation**
+- ![](https://img.shields.io/badge/ICLR-20-lightgrey?labelColor=red) [**Self-Adversarial Learning with Comparative Discrimination for Text Generation**](https://openreview.net/forum?id=B1l8L6EtDS)
 
   Wangchunshu Zhou, **Tao Ge**, Ke Xu, Furu Wei, Ming Zhou
 
-- ![](https://img.shields.io/badge/AAAI-20-lightgrey?labelColor=red) **Fact-aware Sentence Split and Rephrase with Permutation Invariant Training**
+- ![](https://img.shields.io/badge/AAAI-20-lightgrey?labelColor=red) [**Fact-aware Sentence Split and Rephrase with Permutation Invariant Training**](https://ojs.aaai.org/index.php/AAAI/article/view/6291)
 
   Yinuo Guo, **Tao Ge**, Furu Wei
 
-- ![](https://img.shields.io/badge/ACL-19-lightgrey?labelColor=red) **Bert-based Lexical Substitution**
-  
+- ![](https://img.shields.io/badge/ACL-19-lightgrey?labelColor=red) [**Bert-based Lexical Substitution**](https://aclanthology.org/P19-1328/)
+
   Wangchunshu Zhou, **Tao Ge**, Ke Xu, Furu Wei, Ming Zhou
   
 
-- ![](https://img.shields.io/badge/ACL-19-lightgrey?labelColor=red) **Automatic Grammatical Error Correction for Sequence-to-sequence Text Generation: An Empirical Study**
-  
+- ![](https://img.shields.io/badge/ACL-19-lightgrey?labelColor=red) [**Automatic Grammatical Error Correction for Sequence-to-sequence Text Generation: An Empirical Study**](https://aclanthology.org/P19-1609/)
+
   **Tao Ge**, Xingxing Zhang, Furu Wei, Ming Zhou
   
 
-- ![](https://img.shields.io/badge/EMNLP-18-lightgrey?labelColor=red) **Fine-grained Coordinated Cross-lingual Text Stream Alignment for Endless Language Knowledge Acquisition**
-  
+- ![](https://img.shields.io/badge/EMNLP-18-lightgrey?labelColor=red) [**Fine-grained Coordinated Cross-lingual Text Stream Alignment for Endless Language Knowledge Acquisition**](https://aclanthology.org/D18-1271/)
+
   **Tao Ge**, Qing Dou, Heng Ji, Lei Cui, Baobao Chang, Zhifang Sui, Furu Wei, Ming Zhou
   
 
-- ![](https://img.shields.io/badge/ACL-18-lightgrey?labelColor=red) **Fluency Boost Learning and Inference for Neural Grammatical Error Correction**
-  
+- ![](https://img.shields.io/badge/ACL-18-lightgrey?labelColor=red) [**Fluency Boost Learning and Inference for Neural Grammatical Error Correction**](https://aclanthology.org/P18-1097/)
+
   **Tao Ge**, Furu Wei, Ming Zhou
   
 
-- ![](https://img.shields.io/badge/LREC-18-lightgrey?labelColor=orange) **EventWiki: A Knowledge Base of Major Events**
-  
+- ![](https://img.shields.io/badge/LREC-18-lightgrey?labelColor=orange) [**EventWiki: A Knowledge Base of Major Events**](https://aclanthology.org/L18-1079/)
+
   **Tao Ge**, Lei Cui, Baobao Chang, Zhifang Sui, Furu Wei, Ming Zhou
   
 
-- ![](https://img.shields.io/badge/NLPCC-18-lightgrey?labelColor=orange) **SeRI: A Dataset for Sub-event Relation Inference from an Encyclopedia**
-  
+- ![](https://img.shields.io/badge/NLPCC-18-lightgrey?labelColor=orange) [**SeRI: A Dataset for Sub-event Relation Inference from an Encyclopedia**](https://link.springer.com/chapter/10.1007/978-3-319-99501-4_23)
+
   **Tao Ge**, Lei Cui, Baobao Chang, Zhifang Sui, Furu Wei, Ming Zhou
   
 
-- ![](https://img.shields.io/badge/COLING-16-lightgrey?labelColor=red) **Event detection with Burst Information Networks**
-  
+- ![](https://img.shields.io/badge/COLING-16-lightgrey?labelColor=red) [**Event detection with Burst Information Networks**](https://aclanthology.org/C16-1309/)
+
   **Tao Ge**, Lei Cui, Baobao Chang, Zhifang Sui, Ming Zhou
   
 
