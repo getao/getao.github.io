@@ -152,7 +152,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   Xuyang Jin, **Tao Ge**<sup>✉</sup>, Furu Wei
 
-- ![](https://img.shields.io/badge/IJCAI-22-lightgrey?labelColor=red) **A Unified Strategy for Multilingual Grammatical Error Correction with Pre-trained Cross-lingual Language Model**
+- ![](https://img.shields.io/badge/IJCAI-22-lightgrey?labelColor=red) [**A Unified Strategy for Multilingual Grammatical Error Correction with Pre-trained Cross-lingual Language Model**](https://www.ijcai.org/proceedings/2022/606)
 
   Xin Sun, **Tao Ge**<sup>✉</sup>, Shuming Ma, Jingjing Li, Furu Wei, Houfeng Wang
 
@@ -295,7 +295,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
   Wenzhe Pei, **Tao Ge**, Baobao Chang
   
 
-- ![](https://img.shields.io/badge/WWW-14-lightgrey?labelColor=red) **A semi-supervised method for opinion target extraction**
+- ![](https://img.shields.io/badge/WWW-14-lightgrey?labelColor=red) [**A semi-supervised method for opinion target extraction**](https://dl.acm.org/doi/10.1145/2567948.2577337)
   
   **Tao Ge**, Wenjie Li, Zhifang Sui
   
@@ -305,7 +305,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
   Huiming Duan, Zhifang Sui, **Tao Ge**
   
 
-- ![](https://img.shields.io/badge/CIKM-13-lightgrey?labelColor=red) **Exploiting Collaborative Filtering Techniques for Automatic Assessment of Student Free-text Responses**
+- ![](https://img.shields.io/badge/CIKM-13-lightgrey?labelColor=red) [**Exploiting Collaborative Filtering Techniques for Automatic Assessment of Student Free-text Responses**](https://dl.acm.org/doi/10.1145/2505515.2507827)
   
   **Tao Ge**, Zhifang Sui, Baobao Chang
   
