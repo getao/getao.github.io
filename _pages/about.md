@@ -156,47 +156,47 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
   Xin Sun, **Tao Ge**<sup>✉</sup>, Shuming Ma, Jingjing Li, Furu Wei, Houfeng Wang
 
-- ![](https://img.shields.io/badge/AAAI-22-lightgrey?labelColor=red) **Text Revision by On-the-Fly Representation Optimization**
+- ![](https://img.shields.io/badge/AAAI-22-lightgrey?labelColor=red) [**Text Revision by On-the-Fly Representation Optimization**](https://ojs.aaai.org/index.php/AAAI/article/view/21343)
 
   Jingjing Li, Zichao Li, **Tao Ge**, Irwin King, Michael Lyu
 
-- ![](https://img.shields.io/badge/EMNLP-21-lightgrey?labelColor=red) **Beyond Preserved Accuracy: Evaluating Loyalty and Robustness of BERT Compression**
+- ![](https://img.shields.io/badge/EMNLP-21-lightgrey?labelColor=red) [**Beyond Preserved Accuracy: Evaluating Loyalty and Robustness of BERT Compression**](https://aclanthology.org/2021.emnlp-main.832/)
 
   Canwen Xu, Wangchunshu Zhou, **Tao Ge**<sup>✉</sup>, Ke Xu, Julian McAuley, Furu Wei
 
-- ![](https://img.shields.io/badge/EMNLP-21-lightgrey?labelColor=red) **Improving Sequence-to-Sequence Pre-training via Sequence Span Rewriting**
+- ![](https://img.shields.io/badge/EMNLP-21-lightgrey?labelColor=red) [**Improving Sequence-to-Sequence Pre-training via Sequence Span Rewriting**](https://aclanthology.org/2021.emnlp-main.45/)
 
   Wangchunshu Zhou, **Tao Ge**<sup>✉</sup>, Canwen Xu, Ke Xu, Furu Wei
 
-- ![](https://img.shields.io/badge/ACL-21-lightgrey?labelColor=red) **Instantaneous Grammatical Error Correction with Shallow Aggressive Decoding**
+- ![](https://img.shields.io/badge/ACL-21-lightgrey?labelColor=red) [**Instantaneous Grammatical Error Correction with Shallow Aggressive Decoding**](https://aclanthology.org/2021.acl-long.462/)
 
   Xin Sun<sup>\*</sup>, **Tao Ge**<sup>✉</sup><sup>\*</sup>, Furu Wei, Houfeng Wang
 
-- ![](https://img.shields.io/badge/NAACL-21-lightgrey?labelColor=red) **Blow the Dog Whistle: A Dataset for Cant Creation, Understanding and Decryption in Chinese**
+- ![](https://img.shields.io/badge/NAACL-21-lightgrey?labelColor=red) [**Blow the Dog Whistle: A Dataset for Cant Creation, Understanding and Decryption in Chinese**](https://aclanthology.org/2021.naacl-main.172/)
 
   Canwen Xu<sup>\*</sup>, Wangchunshu Zhou<sup>\*</sup>, **Tao Ge**<sup>✉</sup>, Ke Xu, Julian McAuley, Furu Wei
 
-- ![](https://img.shields.io/badge/NeurIPS-20-lightgrey?labelColor=red) **BERT Loses Patience: Fast and Robust Inference with Early Exit**
+- ![](https://img.shields.io/badge/NeurIPS-20-lightgrey?labelColor=red) [**BERT Loses Patience: Fast and Robust Inference with Early Exit**](https://proceedings.neurips.cc/paper/2020/hash/d4dd111a4fd973394238aca5c05bebe3-Abstract.html)
 
   Wangchunshu Zhou, **Tao Ge**<sup>✉</sup>, Canwen Xu, Ke Xu, Julian McAuley, Furu Wei
 
-- ![](https://img.shields.io/badge/AACL-20-lightgrey?labelColor=orange) **UnihanLM: Coarse-to-Fine Chinese-Japanese Language Model Pretraining with the Unihan Database**
+- ![](https://img.shields.io/badge/AACL-20-lightgrey?labelColor=orange) [**UnihanLM: Coarse-to-Fine Chinese-Japanese Language Model Pretraining with the Unihan Database**](https://aclanthology.org/2020.aacl-main.24/)
 
   Canwen Xu, **Tao Ge**, Chenliang Li, Furu Wei
 
-- ![](https://img.shields.io/badge/EMNLP-20-lightgrey?labelColor=red) **Improving the Efficiency of Grammatical Error Correction with Erroneous Span Detection and Correction**
+- ![](https://img.shields.io/badge/EMNLP-20-lightgrey?labelColor=red) [**Improving the Efficiency of Grammatical Error Correction with Erroneous Span Detection and Correction**](https://aclanthology.org/2020.emnlp-main.581/)
 
   Mengyun Chen<sup>\*</sup>, **Tao Ge**<sup>✉</sup><sup>\*</sup>, Xingxing Zhang, Furu Wei, Ming Zhou
 
-- ![](https://img.shields.io/badge/EMNLP-20-lightgrey?labelColor=red) **BERT-of-Theseus: Compressing BERT by Progressive Module Replacing**
+- ![](https://img.shields.io/badge/EMNLP-20-lightgrey?labelColor=red) [**BERT-of-Theseus: Compressing BERT by Progressive Module Replacing**](https://aclanthology.org/2020.emnlp-main.633/)
 
   Canwen Xu<sup>\*</sup>, Wangchunshu Zhou<sup>\*</sup>, **Tao Ge**<sup>✉</sup>, Ke Xu, Julian McAuley, Furu Wei, Ming Zhou
 
-- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=tomato) **Pseudo-Bidirectional Decoding for Local Sequence Transduction**
+- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=tomato) [**Pseudo-Bidirectional Decoding for Local Sequence Transduction**](https://aclanthology.org/2020.findings-emnlp.136/)
 
   Wangchunshu Zhou, **Tao Ge**, Chang Mu, Ke Xu, Furu Wei, Ming Zhou
 
-- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=tomato) **Improving Grammatical Error Correction with Machine Translation Pairs**
+- ![](https://img.shields.io/badge/EMNLP%20Findings-20-lightgrey?labelColor=tomato) [**Improving Grammatical Error Correction with Machine Translation Pairs**](https://aclanthology.org/2020.findings-emnlp.30/)
 
   Wangchunshu Zhou, **Tao Ge**, Ke Xu, Furu Wei, Ming Zhou
 
@@ -251,47 +251,47 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
   **Tao Ge**, Lei Cui, Baobao Chang, Zhifang Sui, Ming Zhou
   
 
-- ![](https://img.shields.io/badge/EMNLP-16-lightgrey?labelColor=red) **News Stream Summarization using Burst Information Networks**
-  
+- ![](https://img.shields.io/badge/EMNLP-16-lightgrey?labelColor=red) [**News Stream Summarization using Burst Information Networks**](https://aclanthology.org/D16-1075/)
+
   **Tao Ge**, Lei Cui, Heng Ji, Baobao Chang, Sujian Li, Ming Zhou, Zhifang Sui
   
 
-- ![](https://img.shields.io/badge/NLPCC-16-lightgrey?labelColor=orange) ![](https://img.shields.io/badge/Best%20Student%20Paper-gold) **Discovering Concept-level Event Associations from a Text Stream**
+- ![](https://img.shields.io/badge/NLPCC-16-lightgrey?labelColor=orange) ![](https://img.shields.io/badge/Best%20Student%20Paper-gold) [**Discovering Concept-level Event Associations from a Text Stream**](https://link.springer.com/chapter/10.1007/978-3-319-50496-4_34)
 
   **Tao Ge**, Lei Cui, Heng Ji, Baobao Chang, Zhifang Sui
 
-- ![](https://img.shields.io/badge/COLING-16-lightgrey?labelColor=red) **Towards Time-aware Knowledge Graph Completion**
-  
+- ![](https://img.shields.io/badge/COLING-16-lightgrey?labelColor=red) [**Towards Time-aware Knowledge Graph Completion**](https://aclanthology.org/C16-1161/)
+
   Tingsong Jiang, Tianyu Liu, **Tao Ge**, Lei Sha, Baobao Chang, Sujian Li, Zhifang Sui
   
 
-- ![](https://img.shields.io/badge/EMNLP-16-lightgrey?labelColor=red) **Encoding Temporal Information for Time-aware Link Prediction**
-  
+- ![](https://img.shields.io/badge/EMNLP-16-lightgrey?labelColor=red) [**Encoding Temporal Information for Time-aware Link Prediction**](https://aclanthology.org/D16-1260/)
+
   Tingsong Jiang, Tianyu Liu, **Tao Ge**, Lei Sha, Sujian Li, Baobao Chang, Zhifang Sui
   
 
-- ![](https://img.shields.io/badge/ACL-15-lightgrey?labelColor=red) **One Tense per Scene: Predicting Tense in Chinese Conversations**
-  
+- ![](https://img.shields.io/badge/ACL-15-lightgrey?labelColor=red) [**One Tense per Scene: Predicting Tense in Chinese Conversations**](https://aclanthology.org/P15-2110/)
+
   **Tao Ge**, Heng Ji, Baobao Chang, Zhifang Sui
   
 
-- ![](https://img.shields.io/badge/ACL-15-lightgrey?labelColor=red) **Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles**
-  
+- ![](https://img.shields.io/badge/ACL-15-lightgrey?labelColor=red) [**Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles**](https://aclanthology.org/P15-1056/)
+
   **Tao Ge**, Wenzhe Pei, Heng Ji, Sujian Li, Baobao Chang, Zhifang Sui
   
 
-- ![](https://img.shields.io/badge/ACL-15-lightgrey?labelColor=red) **An Effective Neural Network Model for Graph-based Dependency Parsing**
-  
+- ![](https://img.shields.io/badge/ACL-15-lightgrey?labelColor=red) [**An Effective Neural Network Model for Graph-based Dependency Parsing**](https://aclanthology.org/P15-1031/)
+
   Wenzhe Pei, **Tao Ge**, Baobao Chang
   
 
-- ![](https://img.shields.io/badge/BioNLP-15-lightgrey?labelColor=orange) **Exploiting task-oriented resources to learn word embeddings for clinical abbreviation expansion**
-  
+- ![](https://img.shields.io/badge/BioNLP-15-lightgrey?labelColor=orange) [**Exploiting task-oriented resources to learn word embeddings for clinical abbreviation expansion**](https://aclanthology.org/W15-3810/)
+
   Yue Liu, **Tao Ge**, Kusum S Mathews, Heng Ji, Deborah McGuinness
   
 
-- ![](https://img.shields.io/badge/ACL-14-lightgrey?labelColor=red) **Max-Margin Tensor Neural Network for Chinese Word Segmentation**
-  
+- ![](https://img.shields.io/badge/ACL-14-lightgrey?labelColor=red) [**Max-Margin Tensor Neural Network for Chinese Word Segmentation**](https://aclanthology.org/P14-1028/)
+
   Wenzhe Pei, **Tao Ge**, Baobao Chang
   
 
@@ -300,8 +300,8 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
   **Tao Ge**, Wenjie Li, Zhifang Sui
   
 
-- ![](https://img.shields.io/badge/SIGHAN-14-lightgrey?labelColor=orange) **The CIPS-SIGHAN CLP 2014 Chinese Word Segmentation Bake-off**
-  
+- ![](https://img.shields.io/badge/SIGHAN-14-lightgrey?labelColor=orange) [**The CIPS-SIGHAN CLP 2014 Chinese Word Segmentation Bake-off**](https://aclanthology.org/W14-6814/)
+
   Huiming Duan, Zhifang Sui, **Tao Ge**
   
 
@@ -310,7 +310,7 @@ Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
   **Tao Ge**, Zhifang Sui, Baobao Chang
   
 
-- ![](https://img.shields.io/badge/EMNLP-13-lightgrey?labelColor=red) **Event-Based Time Label Propagation for Automatic Dating of News Articles**
-  
+- ![](https://img.shields.io/badge/EMNLP-13-lightgrey?labelColor=red) [**Event-Based Time Label Propagation for Automatic Dating of News Articles**](https://aclanthology.org/D13-1001/)
+
   **Tao Ge**, Baobao Chang, Sujian Li, Zhifang Sui
   
