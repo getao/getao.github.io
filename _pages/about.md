@@ -68,7 +68,7 @@ Prior to joining Microsoft, I earned my Ph.D. from Peking University in 2017, ad
 
 - ![](https://img.shields.io/badge/ACL-25-white?labelColor=red) [**Learn to Memorize: Scalable Continual Learning in Semiparametric Models with Mixture-of-Neighbors Induction Memory**](https://aclanthology.org/2025.acl-long.1385/)
 
-Guangyue Peng, **Tao Ge**<sup>✉</sup>, Wen Luo, Wei Li, Houfeng Wang
+  Guangyue Peng, **Tao Ge**<sup>✉</sup>, Wen Luo, Wei Li, Houfeng Wang
 
 - ![](https://img.shields.io/badge/NAACL-25-white?labelColor=red) [**K-Level Reasoning: Establishing Higher Order Beliefs in Large Language Models for Strategic Reasoning**](https://aclanthology.org/2025.naacl-long.370/)
 
