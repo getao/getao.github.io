@@ -41,11 +41,11 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
   Nan Yang, **Tao Ge**, Liang Wang, Binxing Jiao, Daxin Jiang, Linjun Yang, Rangan Majumder, Furu Wei
 
-- ![](https://img.shields.io/badge/arXiv-22.05-white?labelColor=tan) [**Lossless Acceleration for Seq2seq Generation with Aggressive Decoding**](https://arxiv.org/abs/2205.10350) (an earlier tech report of my proposed Speculative Decoding)
+- ![](https://img.shields.io/badge/arXiv-22.05-white?labelColor=tan) [**Lossless Acceleration for Seq2seq Generation with Aggressive Decoding**](https://arxiv.org/abs/2205.10350) (an earlier tech report of Speculative Decoding)
 
   **Tao Ge**, Heming Xia, Xin Sun, Si-Qing Chen, Furu Wei
 
-- ![](https://img.shields.io/badge/arXiv-18.07-white?labelColor=tan) [**Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study**](https://arxiv.org/abs/1807.01270) (the milestone of human-level performance in GEC)
+- ![](https://img.shields.io/badge/arXiv-18.07-white?labelColor=tan) [**Reaching Human-level Performance in Automatic Grammatical Error Correction**](https://arxiv.org/abs/1807.01270) (the milestone of human-level GEC)
 
   **Tao Ge**, Furu Wei, Ming Zhou
 
