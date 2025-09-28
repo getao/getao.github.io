@@ -22,9 +22,9 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Tao Ge (葛涛)"
   avatar           : "images/bio.png"
-  bio              : "Research Scientist in LLM"
-  location         :
-  googlescholar    :
+  bio              : "Researcher in GenAI/LLM"
+  location         : "Redmond, WA, USA"
+  googlescholar    : "https://scholar.google.com/citations?user=LYbs7Q8AAAAJ&hl=en"
   email            : "sggetao@gmail.com"
   uri              : 
   github           : 
