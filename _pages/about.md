@@ -12,7 +12,7 @@ redirect_from:
 
 # About
 
-Dr. Tao Ge is a Principal Science Lead at Microsoft in Redmond, where he leads research and development of state-of-the-art large language models (LLMs), spanning synthetic data creation, mid-/post-training of OpenAI models (GPT-4/5, and o3/o4-mini), and agentic approaches powering Microsoft products (e.g., Office/Copilot). Prior to his current role, Tao was a Principal Researcher at Tencent AI Lab (Seattle) and Microsoft Research Asia (MSRA) after earning his Ph.D. in Computer Science from Peking University. 
+Dr. Tao Ge is a Principal Science Lead at Microsoft in Redmond, leading research and development of state-of-the-art large language models (LLMs), spanning synthetic data creation, mid-/post-training of OpenAI models (GPT-4/5, and o3/o4-mini), and agentic approaches powering Microsoft products (e.g., Office/Copilot). Prior to his current role, Tao was a Principal Researcher at Tencent AI Lab (Seattle) and Microsoft Research Asia (MSRA) after earning his Ph.D. in Computer Science from Peking University. 
 
 Tao has published more than 60 papers at top AI/ML conferences. Two of his most known and widely adopted tech innovations are:
 
