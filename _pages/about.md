@@ -18,7 +18,7 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
 1. **Speculative Decoding**: Tao pioneered the seminal study of Speculative Decoding beginning in [2021](https://aclanthology.org/2021.acl-long.462.pdf) (initially referred to as [Aggressive Decoding](https://arxiv.org/pdf/2205.10350)). He was **the first to introduce a separate drafter model** to achieve lossless acceleration of Transformer decoding (first made public in [March 2022](https://arxiv.org/pdf/2203.16487)), and he was also **the first to coin the term "Speculative Decoding"** for this speculative execution paradigm (made public in [September 2022](https://openreview.net/forum?id=H-VlwsYvVi)). His research was subsequently followed by the papers on Speculative Decoding/Sampling for LLMs from Google (first made public in [November 2022](https://arxiv.org/abs/2211.17192)) and DeepMind (made public in [February 2023](https://arxiv.org/abs/2302.01318)), sparking the surge of interest and adoption since mid-2023. Today, Speculative Decoding has become an industry standard for LLM inference acceleration, supported in major open-source frameworks (e.g., vLLM, PyTorch, ONNX) and widely integrated into production-scale deployments.
 
-2. **Persona-Driven Synthetic Data Creation**: Tao proposed [persona-driven synthetic data creation](https://arxiv.org/abs/2406.20094), a novel paradigm for scaling high-quality training data generation. This innovation has been widely recognized and adopted as a core synthetic data methodology in the development of leading LLMs, including (but not limited to):
+2. **Persona-Driven Synthetic Data Creation**: Tao proposed [persona-driven synthetic data creation](https://arxiv.org/abs/2406.20094), a novel paradigm for scaling high-quality synthetic training data generation. This innovation has been widely recognized and adopted as a core synthetic data methodology in the development of leading LLMs, including (but not limited to):
    - [OLMo](https://arxiv.org/abs/2501.00656)/[Molmo and PixMo](https://arxiv.org/abs/2409.17146) (AI2)
    - [Qwen](https://qwen.ai/home) (Alibaba)
    - [Hunyuan](https://github.com/Tencent-Hunyuan) (Tencent)
@@ -31,31 +31,21 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
 # Publications (<sup>\*</sup>: equal contributions; <sup>✉</sup>: corresponding author)
 
-## Preprint
+## Tech Report
 
-- ![](https://img.shields.io/badge/arXiv-25.01-white?labelColor=tan) [**OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas**](https://arxiv.org/abs/2501.15427)
+- ![](https://img.shields.io/badge/arXiv-24.06-white?labelColor=tan) [**Scaling Synthetic Data Creation with 1,000,000,000 Personas**](https://arxiv.org/pdf/2406.20094) (a novel persona-driven synthetic data creation paradigm)
 
-  Xiaoyang Wang, Hongming Zhang, **Tao Ge**, Wenhao Yu, Dian Yu, Dong Yu
-
-- ![](https://img.shields.io/badge/arXiv-24.10-white?labelColor=tan) [**ParallelSpec: Parallel Drafter for Efficient Speculative Decoding**](https://arxiv.org/pdf/2410.05589)
-
-  Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
+  **Tao Ge**, Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu
 
 - ![](https://img.shields.io/badge/arXiv-23.04-white?labelColor=tan) [**Inference with Reference: Lossless Acceleration of Large Language Models**](https://arxiv.org/abs/2304.04487) (the innovation used in [OpenAI's Predicted Output](https://platform.openai.com/docs/guides/predicted-outputs)) 
 
   Nan Yang, **Tao Ge**, Liang Wang, Binxing Jiao, Daxin Jiang, Linjun Yang, Rangan Majumder, Furu Wei
 
-## Tech Report
-
-- ![](https://img.shields.io/badge/arXiv-24.06-white?labelColor=tan) [**Scaling Synthetic Data Creation with 1,000,000,000 Personas**](https://arxiv.org/pdf/2406.20094)
-
-  **Tao Ge**, Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu
-
 - ![](https://img.shields.io/badge/arXiv-22.05-white?labelColor=tan) [**Lossless Acceleration for Seq2seq Generation with Aggressive Decoding**](https://arxiv.org/abs/2205.10350) (an earlier tech report of my proposed Speculative Decoding)
 
   **Tao Ge**, Heming Xia, Xin Sun, Si-Qing Chen, Furu Wei
 
-- ![](https://img.shields.io/badge/arXiv-18.07-white?labelColor=tan) [**Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study**](https://arxiv.org/abs/1807.01270)  
+- ![](https://img.shields.io/badge/arXiv-18.07-white?labelColor=tan) [**Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study**](https://arxiv.org/abs/1807.01270) (the milestone of human-level performance in GEC)
 
   **Tao Ge**, Furu Wei, Ming Zhou
 
