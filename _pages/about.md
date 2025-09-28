@@ -37,15 +37,15 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
   **Tao Ge**, Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu
 
-- ![](https://img.shields.io/badge/arXiv-23.04-white?labelColor=tan) [**Inference with Reference: Lossless Acceleration of Large Language Models**](https://arxiv.org/abs/2304.04487) (the innovation used in [OpenAI's Predicted Output](https://platform.openai.com/docs/guides/predicted-outputs)) 
+- ![](https://img.shields.io/badge/arXiv-23.04-white?labelColor=tan) [**Inference with Reference: Lossless Acceleration of Large Language Models**](https://arxiv.org/pdf/2304.04487) (the innovation used in [OpenAI's Predicted Output](https://platform.openai.com/docs/guides/predicted-outputs)) 
 
   Nan Yang, **Tao Ge**, Liang Wang, Binxing Jiao, Daxin Jiang, Linjun Yang, Rangan Majumder, Furu Wei
 
-- ![](https://img.shields.io/badge/arXiv-22.05-white?labelColor=tan) [**Lossless Acceleration for Seq2seq Generation with Aggressive Decoding**](https://arxiv.org/abs/2205.10350) (an earlier tech report of Speculative Decoding)
+- ![](https://img.shields.io/badge/arXiv-22.05-white?labelColor=tan) [**Lossless Acceleration for Seq2seq Generation with Aggressive Decoding**](https://arxiv.org/pdf/2205.10350) (an earlier tech report of Speculative Decoding)
 
   **Tao Ge**, Heming Xia, Xin Sun, Si-Qing Chen, Furu Wei
 
-- ![](https://img.shields.io/badge/arXiv-18.07-white?labelColor=tan) [**Reaching Human-level Performance in Automatic Grammatical Error Correction**](https://arxiv.org/abs/1807.01270) (the milestone of human-level GEC)
+- ![](https://img.shields.io/badge/arXiv-18.07-white?labelColor=tan) [**Reaching Human-level Performance in Automatic Grammatical Error Correction**](https://arxiv.org/pdf/1807.01270) (the milestone of human-level GEC)
 
   **Tao Ge**, Furu Wei, Ming Zhou
 
