@@ -35,7 +35,7 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
 - ![](https://img.shields.io/badge/arXiv-24.06-white?labelColor=tan) [**DocReward: A Document Reward Model for Structuring and Stylizing**](https://arxiv.org/pdf/2510.11391)  
 
-Junpeng Liu, Yuzhong Zhao, Bowen Cao, Jiayu Ding, Yilin Jia, Tengchao Lv, Yupan Huang, Shaohan Huang, Nan Yang, Li Dong, Lei Cui, **Tao Ge**, Xun Wang, Huitian Jiao, Sun Mao, FNU Kartik, Si-Qing Chen, Wai Lam, Furu Wei
+  Junpeng Liu, Yuzhong Zhao, Bowen Cao, Jiayu Ding, Yilin Jia, Tengchao Lv, Yupan Huang, Shaohan Huang, Nan Yang, Li Dong, Lei Cui, **Tao Ge**, Xun Wang, Huitian Jiao, Sun Mao, FNU Kartik, Si-Qing Chen, Wai Lam, Furu Wei
 
 
 - ![](https://img.shields.io/badge/arXiv-24.06-white?labelColor=tan) [**Scaling Synthetic Data Creation with 1,000,000,000 Personas**](https://arxiv.org/pdf/2406.20094) (a novel persona-driven synthetic data creation paradigm)
