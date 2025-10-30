@@ -33,7 +33,7 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
 ## Tech Report
 
-- ![](https://img.shields.io/badge/arXiv-24.06-white?labelColor=tan) [**DocReward: A Document Reward Model for Structuring and Stylizing**](https://arxiv.org/pdf/2510.11391)  
+- ![](https://img.shields.io/badge/arXiv-25.10-white?labelColor=tan) [**DocReward: A Document Reward Model for Structuring and Stylizing**](https://arxiv.org/pdf/2510.11391)  
 
   Junpeng Liu, Yuzhong Zhao, Bowen Cao, Jiayu Ding, Yilin Jia, Tengchao Lv, Yupan Huang, Shaohan Huang, Nan Yang, Li Dong, Lei Cui, **Tao Ge**, Xun Wang, Huitian Jiao, Sun Mao, FNU Kartik, Si-Qing Chen, Wai Lam, Furu Wei
 
