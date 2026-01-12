@@ -12,17 +12,17 @@ redirect_from:
 
 # About
 
-Dr. Tao Ge is a Principal Science Lead at Microsoft in Redmond, leading research and development of state-of-the-art large language models (LLMs), spanning synthetic data creation, mid-/post-training of OpenAI models (GPT-4/5, and o3/o4-mini), and agentic approaches powering Microsoft products (e.g., Office/Copilot). Prior to his current role, Tao was a Principal Researcher at Tencent AI Lab (Seattle) and Microsoft Research Asia (MSRA) after earning his Ph.D. in Computer Science from Peking University. 
+Dr. Tao Ge is a Principal Science Lead at Microsoft in Redmond, where he leads research and development of LLMs with a focus on productivity scenarios, spanning synthetic data, mid-/post-training, efficient training recipes, and agentic approaches. Prior to his current role, Tao was a Principal Researcher at Tencent AI Lab (Seattle) and Microsoft Research Asia (MSRA) after earning his Ph.D. in Computer Science from Peking University.
 
 Tao has published more than 60 papers at top AI/ML conferences. Two of his most known and widely adopted tech innovations are:
 
 1. **Speculative Decoding**: Tao was **the first to propose and name Speculative Decoding** in the published literature, a novel paradigm for lossless acceleration of Transformer decoding:
-   - His seminal work began in [2021](https://aclanthology.org/2021.acl-long.462.pdf) (initially referred to as [Aggressive Decoding](https://arxiv.org/pdf/2205.10350)).
+   - His seminal work began in [2021](https://aclanthology.org/2021.acl-long.462.pdf) (initially referred to as [Aggressive Decoding](https://arxiv.org/pdf/2205.10350)) for seq2seq generation, which is a key idea of Predicted Output used in [OpenAI models](https://platform.openai.com/docs/guides/predicted-outputs).
    - He was **the first to introduce a separate drafter model** to achieve lossless speedup (first made public in [March 2022](https://arxiv.org/pdf/2203.16487)) and was **the first to coin the term "Speculative Decoding"** for this speculative execution paradigm (made public in [September 2022](https://openreview.net/forum?id=H-VlwsYvVi)).
    
    His research was subsequently followed by the papers on Speculative Decoding/Sampling for LLMs from Google (first made public in [November 2022](https://arxiv.org/abs/2211.17192)) and DeepMind (made public in [February 2023](https://arxiv.org/abs/2302.01318)), sparking the surge of interest and adoption since mid-2023. Today, Speculative Decoding has become an industry standard for LLM inference acceleration, supported in major open-source frameworks (e.g., vLLM, PyTorch, ONNX) and widely integrated into production-scale deployments.
 
-2. **Persona-Driven Synthetic Data Creation**: Tao proposed [persona-driven synthetic data creation](https://arxiv.org/abs/2406.20094), a novel paradigm for scaling high-quality synthetic training data generation. This innovation has been widely recognized and adopted as a core synthetic data methodology in the development of leading LLMs, including (but not limited to):
+2. **Persona-Driven Synthetic Data Creation**: Tao proposed [persona-driven synthetic data creation](https://arxiv.org/abs/2406.20094), a novel paradigm for scaling high-quality synthetic training data generation. This innovation has been widely recognized and adopted as a core methodology for synthetic data creation and agentic simulation in the development of leading LLMs, including but not limited to:
    - [OLMo](https://arxiv.org/abs/2501.00656)/[Molmo and PixMo](https://arxiv.org/abs/2409.17146) (AI2)
    - [Qwen](https://qwen.ai/home) (Alibaba)
    - [Hunyuan](https://github.com/Tencent-Hunyuan) (Tencent)
