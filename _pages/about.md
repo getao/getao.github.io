@@ -26,7 +26,7 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
    - [OLMo](https://arxiv.org/abs/2501.00656)/[Molmo and PixMo](https://arxiv.org/abs/2409.17146) (AI2)
    - [Qwen](https://qwen.ai/home) (Alibaba)
    - [Hunyuan](https://github.com/Tencent-Hunyuan) (Tencent)
-   - [LongCat](https://arxiv.org/abs/2509.18883) (Meituan)
+   - [LongCat](https://arxiv.org/abs/2509.18883)/[EvoCUA](https://arxiv.org/pdf/2601.15876) (Meituan)
    - [SmolLM](https://arxiv.org/abs/2502.02737) (Hugging Face)
    - [Hermes](https://arxiv.org/abs/2508.18255) (Nous Research)
    - [Minicpm](https://arxiv.org/abs/2506.07900) (ModelBest)
