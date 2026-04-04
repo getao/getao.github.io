@@ -323,4 +323,4 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
 # Technical Notes
 
-- [PersonaHub: Scaling Synthetic Data Creation with 1,000,000,000 Personas](files/personahub.pdf)
+- \[260403\] [Building the Document Agent: a Word add-in powered by Claude Code SDK](files/doc_agent.pdf)
