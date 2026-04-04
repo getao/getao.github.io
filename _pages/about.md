@@ -318,3 +318,9 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 - ![](https://img.shields.io/badge/EMNLP-13-white?labelColor=red) [**Event-Based Time Label Propagation for Automatic Dating of News Articles**](https://aclanthology.org/D13-1001/)
 
   **Tao Ge**, Baobao Chang, Sujian Li, Zhifang Sui
+
+<span class='anchor' id='technical-notes'></span>
+
+# Technical Notes
+
+- [PersonaHub: Scaling Synthetic Data Creation with 1,000,000,000 Personas](files/personahub.pdf)
