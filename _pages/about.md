@@ -31,6 +31,12 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
    - [Hermes](https://arxiv.org/abs/2508.18255) (Nous Research)
    - [Minicpm](https://arxiv.org/abs/2506.07900) (ModelBest)
 
+<span class='anchor' id='technical-notes'></span>
+
+# Tech Notes
+
+- ![](https://img.shields.io/badge/26.04-white?labelColor=steelblue) ![](https://img.shields.io/badge/New-brightgreen) [Building the Document Agent: a Word add-in powered by Claude Code SDK](files/doc_agent.pdf)
+
 <span class='anchor' id='publications'></span>
 
 # Publications (<sup>\*</sup>: equal contributions; <sup>✉</sup>: corresponding author)
@@ -318,9 +324,3 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 - ![](https://img.shields.io/badge/EMNLP-13-white?labelColor=red) [**Event-Based Time Label Propagation for Automatic Dating of News Articles**](https://aclanthology.org/D13-1001/)
 
   **Tao Ge**, Baobao Chang, Sujian Li, Zhifang Sui
-
-<span class='anchor' id='technical-notes'></span>
-
-# Tech Notes
-
-- ![](https://img.shields.io/badge/26.04-white?labelColor=steelblue) [Building the Document Agent: a Word add-in powered by Claude Code SDK](files/doc_agent.pdf)
