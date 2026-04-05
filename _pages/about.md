@@ -321,6 +321,6 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
 <span class='anchor' id='technical-notes'></span>
 
-# Technical Notes
+# Tech Notes
 
 - ![](https://img.shields.io/badge/26.04-white?labelColor=steelblue) [Building the Document Agent: a Word add-in powered by Claude Code SDK](files/doc_agent.pdf)

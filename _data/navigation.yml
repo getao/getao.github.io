@@ -2,5 +2,5 @@
 main:
   - title: "Publications"
     url: "/#publications"
-  - title: "Technical Notes"
+  - title: "Tech Notes"
     url: "/#technical-notes"
