@@ -10,12 +10,12 @@ redirect_from:
 
 <style>
 @keyframes badge-glow {
-  0%, 100% { box-shadow: 0 0 4px 1px rgba(255,80,80,0.7); transform: scale(1); }
-  50% { box-shadow: 0 0 10px 3px rgba(255,80,80,0.95); transform: scale(1.12); }
+  0%, 100% { box-shadow: 0 0 4px 1px rgba(120,80,255,0.6); transform: scale(1); }
+  50% { box-shadow: 0 0 10px 3px rgba(120,80,255,0.9); transform: scale(1.12); }
 }
 .badge-new {
   display: inline-block;
-  background: linear-gradient(135deg, #ff5252, #c0392b);
+  background: linear-gradient(135deg, #7c5cbf, #5b3fa6);
   color: white;
   font-size: 10px;
   font-weight: 800;
