@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 <style>
-@keyframes badge-glow {
-  0%, 100% { box-shadow: 0 0 4px 1px rgba(120,80,255,0.6); transform: scale(1); }
-  50% { box-shadow: 0 0 10px 3px rgba(120,80,255,0.9); transform: scale(1.12); }
+@keyframes badge-pulse {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.12); }
 }
 .badge-new {
   display: inline-block;
@@ -23,7 +23,7 @@ redirect_from:
   border-radius: 8px;
   vertical-align: middle;
   letter-spacing: 0.8px;
-  animation: badge-glow 1.4s ease-in-out infinite;
+  animation: badge-pulse 1.4s ease-in-out infinite;
   cursor: default;
 }
 </style>
