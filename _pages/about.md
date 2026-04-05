@@ -8,6 +8,26 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+@keyframes badge-glow {
+  0%, 100% { box-shadow: 0 0 4px 1px rgba(255,80,80,0.7); transform: scale(1); }
+  50% { box-shadow: 0 0 10px 3px rgba(255,80,80,0.95); transform: scale(1.12); }
+}
+.badge-new {
+  display: inline-block;
+  background: linear-gradient(135deg, #ff5252, #c0392b);
+  color: white;
+  font-size: 10px;
+  font-weight: 800;
+  padding: 2px 7px;
+  border-radius: 8px;
+  vertical-align: middle;
+  letter-spacing: 0.8px;
+  animation: badge-glow 1.4s ease-in-out infinite;
+  cursor: default;
+}
+</style>
+
 <span class='anchor' id='about-me'></span>
 
 # About
@@ -35,7 +55,7 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
 # Tech Notes
 
-- ![](https://img.shields.io/badge/26.04-white?labelColor=steelblue) ![](https://img.shields.io/badge/New-brightgreen) [Building the Document Agent: a Word add-in powered by Claude Code SDK](files/doc_agent.pdf)
+- ![](https://img.shields.io/badge/26.04-white?labelColor=steelblue) <span class="badge-new">NEW</span> [Building the Document Agent: a Word add-in powered by Claude Code SDK](files/doc_agent.pdf)
 
 <span class='anchor' id='publications'></span>
 
