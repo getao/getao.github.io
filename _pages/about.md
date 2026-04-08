@@ -42,9 +42,9 @@ Dr. Tao Ge is a Principal Science Lead at Microsoft in Redmond, where he leads r
 
 Tao has published more than 60 papers at top AI/ML conferences. Two of his most known and widely adopted tech innovations are:
 
-1. **Speculative Decoding**: Tao was **the first to propose and name** Speculative Decoding in the published literature, a novel paradigm for lossless acceleration of Transformer decoding, and **the first to [open-source](https://github.com/microsoft/unilm/tree/master/decoding)** the draft-then-verify speculative execution decoding paradigm:
+1. **Speculative Decoding**: Tao was the first to propose and name Speculative Decoding in the published literature, a novel paradigm for lossless acceleration of Transformer decoding, and the first to [open-source](https://github.com/microsoft/unilm/tree/master/decoding) the draft-then-verify speculative execution decoding paradigm:
    - His seminal work began in [2021](https://aclanthology.org/2021.acl-long.462.pdf) (initially referred to as [Aggressive Decoding](https://arxiv.org/pdf/2205.10350)) for seq2seq generation, which is **the first drafter-free speculative decoding formulation** and a key idea of [Predicted Output](https://platform.openai.com/docs/guides/predicted-outputs) used by OpenAI.
-   - He was **the first to introduce a separate drafter model** to achieve lossless speedup (first made public in [March 2022](https://arxiv.org/pdf/2203.16487)) and the first to release an [open-source implementation](https://github.com/microsoft/unilm/tree/master/decoding) of the general drafter-verifier decoding paradigm. He was also **the first to coin the term "Speculative Decoding"** for this speculative execution paradigm (renamed from Aggressive Decoding, made public in [September 2022](https://openreview.net/forum?id=H-VlwsYvVi)).
+   - He was **the first to introduce a separate drafter model** to achieve lossless speedup (first made public in [March 2022](https://arxiv.org/pdf/2203.16487)) and **the first to release an [open-source implementation](https://github.com/microsoft/unilm/tree/master/decoding)** of the general drafter-verifier decoding paradigm. He was also **the first to coin the term "Speculative Decoding"** for this speculative execution paradigm (renamed from Aggressive Decoding, made public in [September 2022](https://openreview.net/forum?id=H-VlwsYvVi)).
    
    This line of work was subsequently pursued by the papers on Speculative Decoding/Sampling for LLMs from Google (first made public in [November 2022](https://arxiv.org/abs/2211.17192)) and DeepMind (made public in [February 2023](https://arxiv.org/abs/2302.01318)), sparking the surge of interest and adoption since mid-2023. Today, Speculative Decoding has become an industry standard for LLM inference acceleration, supported in major open-source frameworks (e.g., vLLM, PyTorch, ONNX) and widely integrated into production-scale deployments.
 
@@ -59,6 +59,7 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
    - [Hermes](https://arxiv.org/abs/2508.18255) <img class="company-logo" src="https://github.com/NousResearch.png?size=64" title="Nous Research" alt="Nous Research">
    - [Minicpm](https://arxiv.org/abs/2506.07900) <img class="company-logo" src="https://github.com/OpenBMB.png?size=64" title="ModelBest" alt="ModelBest">
 
+<span class='anchor' id='publications'></span>
 
 # Publications (<sup>\*</sup>: equal contributions; <sup>✉</sup>: corresponding author)
 
@@ -90,7 +91,7 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
 - ![](https://img.shields.io/badge/ACL%20Findings-26-white?labelColor=tomato) **LEDGER: Scaling Agentic Document Editing with Dependency-aware Graph Retrieval**
 
-Hang Wang, Utkarsh Garg, Reza Davari, Huitian Jiao, Hao Cheng, Baolin Peng, Si-Qing Chen, **Tao Ge**
+  Hang Wang, Utkarsh Garg, Reza Davari, Huitian Jiao, Hao Cheng, Baolin Peng, Si-Qing Chen, **Tao Ge**
 
 - ![](https://img.shields.io/badge/NeurIPS-25-white?labelColor=red) ![](https://img.shields.io/badge/Spotlight-gold) [**Improving LLM General Preference Alignment via Optimistic Online Mirror Descent**](https://arxiv.org/abs/2410.13184)
 
