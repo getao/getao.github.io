@@ -43,12 +43,12 @@ Dr. Tao Ge is a Principal Science Lead at Microsoft in Redmond, where he leads r
 Tao has published more than 60 papers at top AI/ML conferences. Two of his most known and widely adopted tech innovations are:
 
 1. **Speculative Decoding**: Tao was **the first to propose and name** Speculative Decoding in the published literature, a novel paradigm for lossless acceleration of Transformer decoding, and **the first to [open-source](https://github.com/microsoft/unilm/tree/master/decoding)** the draft-then-verify speculative execution decoding paradigm:
-   - His seminal work began in [2021](https://aclanthology.org/2021.acl-long.462.pdf) (initially referred to as [Aggressive Decoding](https://arxiv.org/pdf/2205.10350)) for seq2seq generation, which is a key idea of [Predicted Output](https://platform.openai.com/docs/guides/predicted-outputs) used by OpenAI.
-   - He was **the first to introduce a separate drafter model** to achieve lossless speedup (first made public in [March 2022](https://arxiv.org/pdf/2203.16487)) and was **the first to coin the term "Speculative Decoding"** for this speculative execution paradigm (renamed from Aggressive Decoding, made public in [September 2022](https://openreview.net/forum?id=H-VlwsYvVi)).
+   - His seminal work began in [2021](https://aclanthology.org/2021.acl-long.462.pdf) (initially referred to as [Aggressive Decoding](https://arxiv.org/pdf/2205.10350)) for seq2seq generation, which is **the first drafter-free speculative decoding formulation** and a key idea of [Predicted Output](https://platform.openai.com/docs/guides/predicted-outputs) used by OpenAI.
+   - He was **the first to introduce a separate drafter model** to achieve lossless speedup (first made public in [March 2022](https://arxiv.org/pdf/2203.16487)) and the first to release an [open-source implementation](https://github.com/microsoft/unilm/tree/master/decoding) of the general drafter-verifier decoding paradigm. He was also **the first to coin the term "Speculative Decoding"** for this speculative execution paradigm (renamed from Aggressive Decoding, made public in [September 2022](https://openreview.net/forum?id=H-VlwsYvVi)).
    
-   His research was subsequently followed by the papers on Speculative Decoding/Sampling for LLMs from Google (first made public in [November 2022](https://arxiv.org/abs/2211.17192)) and DeepMind (made public in [February 2023](https://arxiv.org/abs/2302.01318)), sparking the surge of interest and adoption since mid-2023. Today, Speculative Decoding has become an industry standard for LLM inference acceleration, supported in major open-source frameworks (e.g., vLLM, PyTorch, ONNX) and widely integrated into production-scale deployments.
+   This line of work was subsequently pursued by the papers on Speculative Decoding/Sampling for LLMs from Google (first made public in [November 2022](https://arxiv.org/abs/2211.17192)) and DeepMind (made public in [February 2023](https://arxiv.org/abs/2302.01318)), sparking the surge of interest and adoption since mid-2023. Today, Speculative Decoding has become an industry standard for LLM inference acceleration, supported in major open-source frameworks (e.g., vLLM, PyTorch, ONNX) and widely integrated into production-scale deployments.
 
-2. **Persona-Driven Synthetic Data Creation**: Tao proposed [persona-driven synthetic data creation](https://arxiv.org/abs/2406.20094), a novel paradigm for scaling high-quality synthetic training data generation. This innovation has been widely recognized and adopted as a core methodology for **synthetic data creation** and **agentic simulation** in the development of leading LLMs, including but not limited to:
+2. **Persona-Driven Synthetic Data Creation**: Tao proposed [persona-driven synthetic data creation](https://arxiv.org/abs/2406.20094), a novel paradigm for scaling high-quality synthetic training data generation with billions of diverse personas, addressing a fundamental bottleneck of synthetic data — the lack of diversity and coverage — and enabling scalable data synthesis across training, evaluation, and user/world simulation for agentic scenarios. This innovation has been widely recognized and adopted as a core methodology for **synthetic data creation** and **agentic simulation** in the development of leading LLMs, including but not limited to:
    - [OLMo](https://arxiv.org/abs/2501.00656)/[Molmo and PixMo](https://arxiv.org/abs/2409.17146) <img class="company-logo" src="https://github.com/allenai.png?size=64" title="AI2" alt="AI2">
    - [Nemotron](https://aclanthology.org/2026.eacl-long.43.pdf) <img class="company-logo" src="https://github.com/NVIDIA.png?size=64" title="Nvidia" alt="Nvidia">
    - [Qwen](https://qwen.ai/home) <img class="company-logo" src="https://github.com/alibaba.png?size=64" title="Alibaba" alt="Alibaba">
@@ -59,16 +59,10 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
    - [Hermes](https://arxiv.org/abs/2508.18255) <img class="company-logo" src="https://github.com/NousResearch.png?size=64" title="Nous Research" alt="Nous Research">
    - [Minicpm](https://arxiv.org/abs/2506.07900) <img class="company-logo" src="https://github.com/OpenBMB.png?size=64" title="ModelBest" alt="ModelBest">
 
-<span class='anchor' id='technical-notes'></span>
-
 
 # Publications (<sup>\*</sup>: equal contributions; <sup>✉</sup>: corresponding author)
 
 ## Tech Report
-
-- ![](https://img.shields.io/badge/arXiv-25.10-white?labelColor=tan) [**DocReward: A Document Reward Model for Structuring and Stylizing**](https://arxiv.org/pdf/2510.11391)  
-
-  Junpeng Liu, Yuzhong Zhao, Bowen Cao, Jiayu Ding, Yilin Jia, Tengchao Lv, Yupan Huang, Shaohan Huang, Nan Yang, Li Dong, Lei Cui, **Tao Ge**, Xun Wang, Huitian Jiao, Sun Mao, FNU Kartik, Si-Qing Chen, Wai Lam, Furu Wei
 
 
 - ![](https://img.shields.io/badge/arXiv-24.06-white?labelColor=tan) [**Scaling Synthetic Data Creation with 1,000,000,000 Personas**](https://arxiv.org/pdf/2406.20094) (a novel persona-driven synthetic data creation paradigm)
@@ -89,6 +83,14 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
 
 ## Peer-reviewed
+
+- ![](https://img.shields.io/badge/ACL-26-white?labelColor=red) [**DocReward: A Document Reward Model for Structuring and Stylizing**](https://arxiv.org/pdf/2510.11391)  
+
+  Junpeng Liu, Yuzhong Zhao, Bowen Cao, Jiayu Ding, Yilin Jia, Tengchao Lv, Yupan Huang, Shaohan Huang, Nan Yang, Li Dong, Lei Cui, **Tao Ge**, Xun Wang, Huitian Jiao, Sun Mao, FNU Kartik, Si-Qing Chen, Wai Lam, Furu Wei
+
+- ![](https://img.shields.io/badge/ACL%20Findings-26-white?labelColor=tomato) **LEDGER: Scaling Agentic Document Editing with Dependency-aware Graph Retrieval**
+
+Hang Wang, Utkarsh Garg, Reza Davari, Huitian Jiao, Hao Cheng, Baolin Peng, Si-Qing Chen, **Tao Ge**
 
 - ![](https://img.shields.io/badge/NeurIPS-25-white?labelColor=red) ![](https://img.shields.io/badge/Spotlight-gold) [**Improving LLM General Preference Alignment via Optimistic Online Mirror Descent**](https://arxiv.org/abs/2410.13184)
 
