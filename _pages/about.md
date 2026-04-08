@@ -51,10 +51,10 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 2. **Persona-Driven Synthetic Data Creation**: Tao proposed [persona-driven synthetic data creation](https://arxiv.org/abs/2406.20094), a novel paradigm for scaling high-quality synthetic training data generation. This innovation has been widely recognized and adopted as a core methodology for **synthetic data creation** and **agentic simulation** in the development of leading LLMs, including but not limited to:
    - [OLMo](https://arxiv.org/abs/2501.00656)/[Molmo and PixMo](https://arxiv.org/abs/2409.17146) <img class="company-logo" src="https://github.com/allenai.png?size=64" title="AI2" alt="AI2">
    - [Nemotron](https://aclanthology.org/2026.eacl-long.43.pdf) <img class="company-logo" src="https://github.com/NVIDIA.png?size=64" title="Nvidia" alt="Nvidia">
-   - [Qwen](https://qwen.ai/home) <img class="company-logo" src="https://github.com/QwenLM.png?size=64" title="Alibaba" alt="Alibaba">
+   - [Qwen](https://qwen.ai/home) <img class="company-logo" src="https://github.com/alibaba.png?size=64" title="Alibaba" alt="Alibaba">
    - [Hunyuan](https://github.com/Tencent-Hunyuan) <img class="company-logo" src="https://github.com/Tencent.png?size=64" title="Tencent" alt="Tencent">
    - [LongCat](https://arxiv.org/abs/2509.18883)/[EvoCUA](https://arxiv.org/pdf/2601.15876) <img class="company-logo" src="https://github.com/meituan.png?size=64" title="Meituan" alt="Meituan">
-   - [PaddleOCR](https://arxiv.org/pdf/2510.14528) <img class="company-logo" src="https://github.com/PaddlePaddle.png?size=64" title="Baidu" alt="Baidu">
+   - [PaddleOCR](https://arxiv.org/pdf/2510.14528) <img class="company-logo" src="https://github.com/baidu.png?size=64" title="Baidu" alt="Baidu">
    - [SmolLM](https://arxiv.org/abs/2502.02737) <img class="company-logo" src="https://github.com/huggingface.png?size=64" title="Hugging Face" alt="Hugging Face">
    - [Hermes](https://arxiv.org/abs/2508.18255) <img class="company-logo" src="https://github.com/NousResearch.png?size=64" title="Nous Research" alt="Nous Research">
    - [Minicpm](https://arxiv.org/abs/2506.07900) <img class="company-logo" src="https://github.com/OpenBMB.png?size=64" title="ModelBest" alt="ModelBest">

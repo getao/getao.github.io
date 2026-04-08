@@ -1,0 +1,274 @@
+%-------------------------
+% Resume in Latex
+% License : MIT
+%------------------------
+
+\documentclass[letterpaper,11pt]{article}
+\usepackage[T1]{fontenc}
+\fontfamily{Georgia}\selectfont
+\fontseries{m}\selectfont
+% \fontseries{bx}\selectfont
+\usepackage{latexsym}
+\usepackage{microtype}
+\usepackage[empty]{fullpage}
+\usepackage{titlesec}
+\usepackage{marvosym}
+\usepackage[usenames,dvipsnames]{color}
+\usepackage{verbatim}
+\usepackage{enumitem}
+\usepackage{fancyhdr}
+\usepackage[english]{babel}
+\usepackage{fontawesome5}
+\usepackage{tabularx}
+\usepackage{graphicx}
+\graphicspath{{logos/}}
+\input{glyphtounicode}
+\usepackage{enumitem}
+
+\newcommand{\companylogo}[1]{\raisebox{-0.15\height}{\includegraphics[height=0.9em]{#1}}}
+
+
+\newcommand{\redhl}[1]{\textcolor{red}{#1}}
+\usepackage[colorlinks = true,
+            linkcolor = blue,
+            urlcolor  = blue,
+            citecolor = blue,
+            anchorcolor = blue]{hyperref}   
+
+\renewcommand{\bfseries}{\fontseries{b}\selectfont}
+
+%----------FONT OPTIONS----------
+% sans-serif
+% \usepackage[sfdefault]{FiraSans}
+% \usepackage[sfdefault]{roboto}
+% \usepackage[sfdefault]{noto-sans}
+% \usepackage[default]{sourcesanspro}
+
+% serif
+% \usepackage{CormorantGaramond}
+% \usepackage{charter}
+
+
+\pagestyle{fancy}
+\fancyhf{} % clear all header and footer fields
+\fancyfoot{}
+\renewcommand{\headrulewidth}{0pt}
+\renewcommand{\footrulewidth}{0pt}
+
+% Adjust margins
+\addtolength{\oddsidemargin}{-0.5in}
+\addtolength{\evensidemargin}{-0.5in}
+\addtolength{\textwidth}{1in}
+\addtolength{\topmargin}{-.55in}
+\addtolength{\textheight}{1.0in}
+
+\urlstyle{same}
+
+\raggedbottom
+% \raggedright
+\setlength{\tabcolsep}{0in}
+
+% Sections formatting
+\titleformat{\section}{
+    \vspace{-4pt}\raggedright\small\bfseries
+}{}{0em}{}[\color{black}\titlerule \vspace{-5pt}]
+
+% Ensure that generate pdf is machine readable/ATS parsable
+\pdfgentounicode=1
+
+%-------------------------
+% Custom commands
+
+\newcommand{\resumeItem}[1]{
+    \item\small{
+            {#1 \vspace{-2pt}}
+    }
+}
+
+\newcommand{\resumeSubheading}[4]{
+    \vspace{-2pt}\item
+    \begin{tabular*}{\textwidth}[t]{l@{\extracolsep{\fill}}r}
+        \normalsize\textbf{#1} & #2 \\
+        \textit{\small#3} & \textit{\small #4} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubSubheading}[2]{
+    \item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+        \textit{\small#1} & \textit{\small #2} \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeProjectHeading}[2]{
+    \item
+    \begin{tabular*}{\textwidth}{l@{\extracolsep{\fill}}r}
+        \small#1 & #2 \\
+    \end{tabular*}\vspace{-7pt}
+}
+
+\newcommand{\resumeSubItem}[1]{\resumeItem{#1}\vspace{-4pt}}
+
+\renewcommand\labelitemii{$\vcenter{\hbox{\scriptsize$\bullet$}}$}
+
+\newcommand{\resumeSubHeadingListStart}{\begin{itemize}[leftmargin=0in, label={}]}
+\newcommand{\resumeSubHeadingListEnd}{\end{itemize}}
+\newcommand{\resumeItemListStart}{\begin{itemize}[leftmargin=.3in, labelsep=.10in]}
+\newcommand{\resumeItemListEnd}{\end{itemize}\vspace{-5pt}}
+
+%-------------------------------------------
+%%%%%%  RESUME STARTS HERE  %%%%%%
+
+\begin{document}
+
+%----------HEADING----------
+
+\begin{center}
+{\LARGE \scshape \bfseries Tao Ge} \\ \vspace{1pt}
+Redmond, WA, United States \\ \vspace{1pt}
+\small
+\faPhone\ +1 425-209-9913 $|$
+\faEnvelope\ \href{mailto:sggetao@gmail.com}{\underline{sggetao@gmail.com}} $|$
+\faLinkedin\ \href{https://www.linkedin.com/in/tao-ge-11b19685/}{\underline{tao-ge-11b19685}} $|$
+\faGlobe\ \href{https://getao.github.io}{\underline{getao.github.io}} \\ \vspace{2pt}
+\end{center}
+
+\section{ABOUT}
+Dr. Tao Ge is a researcher in GenAI/LLMs, currently leading post-training of frontier models, with foundational innovations spanning synthetic data, low-cost GenAI, and agentic approaches:
+\begin{itemize}[leftmargin=1.3em, itemsep=0.2em]
+    \item \textbf{Post-training of OpenAI Frontier Models} (2025-): Tao leads end-to-end post-training of OpenAI frontier models (\textbf{GPT-5.4/5.4 mini}), leveraging proprietary innovations in synthetic data, training algorithms and graders\textsuperscript{\ref{pub:docreward}} to optimize Microsoft 365 productivity scenarios. The resulting models achieve state-of-the-art performance across a comprehensive suite of productivity benchmarks — including a \textbf{79\% win-or-tie rate} over the state-of-the-art (base) GPT-5.4 model on GDPVal — and serve hundreds of millions of M365 Copilot users worldwide.
+
+    \item \textbf{Persona-Driven Synthetic Data Creation} (2024): Tao invented a new paradigm for scaling synthetic data generation with \textbf{billions of diverse personas\textsuperscript{\ref{pub:persona}}}, addressing a fundamental bottleneck of synthetic data — the lack of diversity and coverage — and enabling scalable data synthesis across training, evaluation, and user/world simulation for agentic scenarios. This approach has been widely adopted for development of leading LLMs and agentic environments, including OLMo/Molmo (\companylogo{ai2}\,AI2), Nemotron (\companylogo{nvidia}\,Nvidia), Qwen (\companylogo{alibaba}\,Alibaba), ARE/GAIA2 (\companylogo{meta}\,Meta), Hunyuan (\companylogo{tencent}\,Tencent), LongCat (\companylogo{meituan}\,Meituan), PaddlePaddle (\companylogo{baidu}\,Baidu), SmolLM (\companylogo{huggingface}\,Huggingface), Hermes (\companylogo{nousresearch}\,NousResearch), Minicpm (\companylogo{modelbest}\,Modelbest).
+    \item \textbf{Speculative Decoding} (2021--2023): Tao pioneered seminal work on Speculative Decoding, beginning with a \textbf{drafter-free} formulation with predicted outputs in 2021\textsuperscript{\ref{pub:aggressive}} and then extending it to a more \textbf{general drafter-verifier framework} in early 2022\textsuperscript{\ref{pub:specdec}}, which was \textbf{\textcolor{red}{the first}} (\href{https://arxiv.org/pdf/2203.16487v1}{Mar 2022}) to introduce a separate drafter model for lossless Transformer inference acceleration, \textbf{\textcolor{red}{the first}} (\href{https://openreview.net/forum?id=H-VlwsYvVi}{Sep 2022}) to coin the term ``Speculative Decoding'' for this paradigm, and \textbf{\textcolor{red}{the first}} (\href{https://github.com/microsoft/unilm/tree/master/decoding}{May 2022}) to open-source the (drafter--verifier) decoding paradigm. Tao's research was subsequently followed by Google (Nov 2022) and DeepMind (Feb 2023) for LLM acceleration, which has become an industry standard since 2023, integrated into major frameworks such as vLLM, PyTorch, and ONNX, and is widely used in production deployments. In addition, Tao's methodology on \textbf{speculative decoding with predicted outputs} proposed in 2021\textsuperscript{\ref{pub:aggressive}} and early 2023\textsuperscript{\ref{pub:llma}} was adopted by OpenAI in its \href{https://platform.openai.com/docs/guides/predicted-outputs}{Predicted Outputs} feature.
+\end{itemize}
+
+%-----------EDUCATION-----------
+\section{EDUCATION}
+\resumeSubHeadingListStart
+\resumeSubheading
+{Peking University}{Beijing, China}
+{Ph.D, Computer Science (Advisor: Prof. Zhifang Sui)}{2012 -- 2017}
+\resumeSubheading
+{Rensselaer Polytechnic Institute}{Troy, NY}
+{Visiting PhD (Advisor: Prof. Heng Ji)}{2014 -- 2015}
+% \resumeSubheading
+% {NTT Communication Science Laboratories}{Kyoto, Japan}
+% {Research Intern}{2016}
+% \resumeSubheading
+% {Microsoft Research Asia}{Beijing, China}
+% {Research Intern}{2015 -- 2016}
+\resumeSubHeadingListEnd
+%-----------EXPERIENCE-----------
+\section{WORK EXPERIENCE}
+\resumeSubHeadingListStart
+
+\resumeSubheading
+{Microsoft}{Redmond, WA}
+{Principal Science Lead (L67) / Co-Lead of Post-Training and Agent Mode for M365 Copilot}
+{2025 -- Current}
+\begin{itemize}[leftmargin=1.5em, itemsep=0.2em]
+    \item Leading post-training of OpenAI's frontier model (\textbf{GPT-5.4/5.4 mini}) in an internal restricted-access project with authorized access to OpenAI models, code, and technical assets to drive agentic productivity capabilities across long-horizon office tasks, deep research, and collaborative authoring.
+    \item Leading the science for \textbf{Agent Mode} in M365/Office — designing agentic pipelines with comprehensive tool coverage across the full suite of Office capabilities, enabling multi-step, tool-augmented task execution at scale.    \item Representing the organization in regular executive briefings to Microsoft CEO \textit{Satya Nadella} and EVP \textit{Rajesh Jha}, communicating post-training and agent mode strategy and roadmap at the SLT level.
+\end{itemize}
+
+\resumeSubheading
+{Tencent (Seattle)}{Bellevue, WA}
+{Principal Researcher}{2023 -- 2025}
+\begin{itemize}[leftmargin=1.5em, itemsep=0.2em]
+    \item Led research in LLM fundamentals (e.g., scaling laws of quantization and training dynamics\textsuperscript{\ref{pub:quant}}) and synthetic data\textsuperscript{\ref{pub:persona}} for pre-training and post-training Tencent's branded \href{https://github.com/Tencent-Hunyuan}{Hunyuan LLMs}
+\end{itemize}
+
+\resumeSubheading
+{Microsoft Research Asia}{Beijing, China}
+{Principal Researcher}{2017 -- 2023}
+\begin{itemize}[leftmargin=1.5em, itemsep=0.2em]
+\item Led research on generative models for writing AI\textsuperscript{\ref{pub:humangec}\ref{pub:style}\ref{pub:fluency}}, low-cost GenAI (e.g., Speculative Decoding\textsuperscript{\ref{pub:aggressive}\ref{pub:specdec}\ref{pub:llma}}, on-device Transformer architecture\textsuperscript{\ref{pub:edgeformer}} and context compression\textsuperscript{\ref{pub:icae}\ref{pub:xrag}}) and agentic reasoning\textsuperscript{\ref{pub:self-collab}\ref{survey:strategic}\ref{pub:k-level}\ref{pub:alympics}}
+\end{itemize}
+
+%\resumeItem{\textbf{Neural Rewrites} (co-developed with Word and Language Intelligence Team): The production models for various rewriting objectives (e.g., improving formality and politeness) in M365, powered by my research in data synthesis.}
+
+\resumeSubHeadingListEnd
+
+% %-----------FEATURED RESEARCH-----------
+% \section{RESEARCH HIGHLIGHTS}\vspace{0.05cm}
+% \textbf{Synthetic Data for GenAI}
+% \vspace{-0.2cm}
+% \resumeItemListStart
+% \resumeItem{\textbf{Persona-driven Data Synthesis for LLM post-training} (\textit{2024 -- }): I proposed a novel persona-driven data synthesis methodology to scale synthetic data creation\textsuperscript{\ref{pub:persona}}. To this end, I constructed \textbf{``Persona Hub'' — a collection of 1 billion personas}. By showcasing Persona Hub’s use cases in synthesizing high-quality mathematical and logical reasoning problems, instructions, knowledge-rich texts, game NPCs, and tools (functions) at scale, I demonstrate this methodology is versatile, scalable, flexible, and easy to use. Our tech report, once published on arXiv, garnered \redhl{widespread attention and discussion}. This methodology has been not only extensively used within Tencent for large-scale synthetic data creation, but also been embraced by the community with a number of open-source projects.}
+
+% \resumeItem{\textbf{Data Synthesis for Text-to-Text Generation} (\textit{2017 -- 2020}): I proposed a novel approach called Fluency Boost Learning\textsuperscript{\ref{pub:fluency}} to synthesize high-quality training data for seq2seq error correction. This approach uses a pretrained language model (e.g., either an n-gram LM or a neural LM) as a ``reward'' model to rate synthesized instances based on fluency, allowing us to augment error-corrected sentence pairs to a billion scale, significantly advancing the state-of-the-art (achieving the milestone of human-level performance\textsuperscript{\ref{pub:humangec}} in grammar correction for the first time). This approach was further extended to ``reward'' synthesized samples in various dimensions\textsuperscript{\ref{pub:style}} other than fluency, enabling the large-scale data synthesis for more writing assistance tasks (e.g., for formality and politeness rewriting). Moreover, I'm among the earliest\textsuperscript{\ref{pub:tone}} to use GPT-3.5 to generate synthetic data for model training. The series of data synthesis research results in state-of-the-art writing assistant AI in Microsoft Editor, which, as the most used generative models in Microsoft, provides \textbf{trillions of writing suggestions to M365/Office users a year}.}
+% \resumeItemListEnd
+% \vspace{0.2cm}\textbf{Low-cost GenAI} \vspace{-0.15cm}
+% \resumeItemListStart
+% \resumeItem{\textbf{Speculative Decoding} (\textit{2021 -- 2022)}: I am \textbf{the first to propose ``Speculative Decoding''}\textsuperscript{\ref{pub:specdec}} for lossless acceleration of Transformer decoding using the idea of speculative execution, and advocate for attention to this decoding paradigm by claiming ``\textit{it may become the de facto standard for Transformer decoding}'' \textbf{in Mar. 2022}. I propose to introduce an independent model to efficiently draft a number of tokens and verify them in parallel to ensure the generation quality, achieving \redhl{$3\times\sim5\times$ lossless acceleration} for seq2seq tasks like machine translation and  summarization. \textbf{This work is followed by} Google's Speculative Decoding (Nov. 2022; \redhl{8 months later than this work}) and Deepmind's Speculative Sampling (Feb. 2023; \redhl{11 months later than this work}) which adapted this idea to LLMs. Now, Speculative Decoding has become a popular technique to speed up LLM inference, as what I foresaw in my tech report\textsuperscript{\ref{tech:aggressive}} in early 2022. \vspace{0.1cm}  \\ Prior to proposing Speculative Decoding, I proposed Aggressive Decoding\textsuperscript{\ref{pub:aggressive}} in 2021, which is a special case of Speculative Decoding for the tasks where inputs and outputs are highly similar. It regards input tokens as draft tokens and verify them in parallel, largely improving the decoding efficiency without additional cost. This approach has been integrated into ONNX Runtime since December 2021 (v1.10) as the decoding engine for writing assistant generative models (e.g., grammar correction, rephrase and style transfer) in Microsoft Editor. This marks \redhl{the first time} the Speculative Decoding paradigm has been applied on a large scale in product deployment, \redhl{reducing deployment costs by 66\% and resulting in over \$30,000,000 in annual savings.}}
+% \resumeItem{\textbf{Efficient Architecture} (\textit{2020 -- 2023)}: I was responsible for deploying the Turng-NLG model into Microsoft Editor for the text predictions feature, conducting research in distillation, model compression, architecture optimization, and parameterization to retain model performance while meeting the low latency requirement (30ms). Some architecture and parameterization innovations\textsuperscript{\ref{pub:edgeformer}} were also applied to the on-device (PC) grammar correction model, achieving zero deployment cost and bringing the state-of-the-art grammar correction model to millions of M365/Office Desktop users. Moreover, my research involved efficient modeling\textsuperscript{\ref{pub:icae}\ref{pub:xrag}} of long context (i.e., working memory compression) in LLMs for products (e.g., Copilot in Word) and practical scenarios (e.g., RAG).}
+% \resumeItemListEnd
+% % \vspace{0.1cm}
+% % \textbf{LLM Fundamentals} \vspace{-0.2cm}
+% % \resumeItemListStart
+% % \resumeItem{\textbf{Prompting, Reasoning and LLM Agents} (\textit{2023 -- 2024)}: My research in this area includes LLM planning, strategic reasoning, multi-agent and multi-model collaboration.}
+% % \resumeItem{\textbf{Context Compression} (\textit{2022 -- 2023)}: I study the context (i.e., working memory) of an LLM to understand its memorization mechanism and propose practical context compression approaches such as In-context Autoencoder (ICAE) and xRAG.}
+% % \resumeItemListEnd
+
+\definecolor{conferencecolor}{RGB}{0,0,255} % Blue color
+
+%-----------PUBLICATIONS-----------
+\section{SELECTED PUBLICATIONS (*Co-first author; \textsuperscript{\faEnvelope[regular]}Corresponding author)}
+\begin{enumerate}[leftmargin=0.55cm,label={[\arabic*]},itemsep=0.1em]
+    \small
+    \item Junpeng Liu, Yuzhong Zhao, Bowen Cao, Jiayu Ding, Yilin Jia, Tengchao Lv, Yupan Huang, Shaohan Huang, Nan Yang, Li Dong, Lei Cui, \textbf{Tao Ge}, Xun Wang, Huitian Jiao, Sun Mao, FNU Kartik, Si-Qing Chen, Wai Lam, Furu Wei: DocReward: A Document Reward Model for Structuring and Stylizing. \href{https://arxiv.org/pdf/2510.11391}{\textcolor{conferencecolor}{ACL 2026}} \label{pub:docreward}
+    \item Hang Wang, Utkarsh Garg, Reza Davari, Huitian Jiao, Hao Cheng, Baolin Peng, Si-Qing Chen, \textbf{Tao Ge}: LEDGER: Scaling Agentic Document Editing with Dependency-aware Graph Retrieval. Findings of ACL 2026 \label{pub:ledger}
+    \item Yuheng Zhang, Dian Yu, \textbf{Tao Ge}, Linfeng Song, Zhichen Zeng, Haitao Mi, Nan Jiang, Dong Yu: Improving LLM General Preference Alignment via Optimistic Online Mirror Descent. \href{https://arxiv.org/pdf/2502.16852}{\textcolor{conferencecolor}{NeurIPS 2025 (spotlight)}}\label{pub:onpo}
+    \item Shwai He, \textbf{Tao Ge}, Guoheng Sun, Bowei Tian, Xiaoyang Wang, Dong Yu: Router-Tuning: A Simple and Effective Approach for Dynamic Depth. \href{https://arxiv.org/abs/2410.13184}{\textcolor{conferencecolor}{EMNLP 2025}}\label{pub:router}
+    \item Guangyue Peng, \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Wen Luo, Wei Li, Houfeng Wang: Learn to Memorize: Scalable Continual Learning in Semiparametric Language Models with Mixture-of-Neighbors Induction Memory. \href{https://aclanthology.org/2025.acl-long.1385/}{\textcolor{conferencecolor}{ACL 2025}}
+    \item Xu Ouyang, \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Thomas Hartvigsen, Zhisong Zhang, Haitao Mi, Dong Yu: Low-Bit Quantization Favors Undertrained LLMs. \href{https://aclanthology.org/2025.acl-long.1555/}{\textcolor{conferencecolor}{ACL 2025}}\label{pub:quant}
+    \item Yadong Zhang, Shaoguang Mao, \textbf{Tao Ge}, Xun Wang, Yan Xia, Man Lan, Furu Wei: K-Level Reasoning: Establishing Higher Order Beliefs in Large Language Models for Strategic Reasoning. \href{https://aclanthology.org/2025.naacl-long.370/}{\textcolor{conferencecolor}{NAACL 2025}} \label{pub:k-level}
+    \item Shaoguang Mao, Yuzhe Cai, Yan Xia, Wenshan Wu, Xun Wang, Fengyi Wang, Qiang Guan, \textbf{Tao Ge}, Furu Wei: ALYMPICS: LLM Agents Meet Game Theory. \href{https://aclanthology.org/2025.coling-main.193/}{\textcolor{conferencecolor}{COLING 2025}} \label{pub:alympics}
+    \item \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Xin Chan, Xiaoyang Wang, Dian Yu, Haitao Mi, Dong Yu: Scaling Synthetic Data Creation with 1,000,000,000 Personas. \redhl{Tech Report} (\url{https://arxiv.org/abs/2406.20094})\label{pub:persona}
+    \item Xin Cheng, Xun Wang, Xingxing Zhang, \textbf{Tao Ge}, Si-Qing Chen, Furu Wei, Huishuai Zhang, Dongyan Zhao: xRAG: Extreme Context Compression for Retrieval-augmented Generation with One Token. \href{https://proceedings.neurips.cc/paper_files/paper/2024/hash/c5cf13bfd3762821ef7607e63ee90075-Abstract-Conference.html}{\textcolor{conferencecolor}{NeurIPS 2024}}\label{pub:xrag}
+    \item Zhihan Zhang, \textbf{Tao Ge}, Zhenwen Liang, Wenhao Yu, Dian Yu, Mengzhao Jia, Dong Yu, Meng Jiang: Learn Beyond The Answer: Training Language Models with Reflection for Mathematical Reasoning. \href{https://aclanthology.org/2024.emnlp-main.817/}{\textcolor{conferencecolor}{EMNLP 2024}} \label{pub:reflection}
+    \item Yadong Zhang, Shaoguang Mao, \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Xun Wang, Adrian de Wynter, Yan Xia, Wenshan Wu, Ting Song, Man Lan, Furu Wei: LLM as a Mastermind: A Survey of Strategic Reasoning with Large Language Models. \href{https://openreview.net/forum?id=iMqJsQ4evS}{\textcolor{conferencecolor}{COLM 2024}} \label{survey:strategic}
+    \item Heming Xia, Zhe Yang, Qingxiu Dong, Peiyi Wang, Yongqi Li, \textbf{Tao Ge}, Tianyu Liu, Wenjie Li, Zhifang Sui: Unlocking Efficiency in Large Language Model Inference: A Comprehensive Survey of Speculative Decoding. \href{https://aclanthology.org/2024.findings-acl.456/}{Findings of \textcolor{conferencecolor}{ACL 2024}} \label{survey:specdec}
+    \item Xin Cheng, Xun Wang, \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Si-Qing Chen, Furu Wei, Dongyan Zhao, Rui Yan: SCALE: Synergized Collaboration of Asymmetric Language Translation Engines. \href{https://aclanthology.org/2024.findings-acl.941/}{Findings of \textcolor{conferencecolor}{ACL 2024}}
+    \item Yuzhe Cai, Shaoguang Mao, Wenshan Wu, Zehua Wang, Yaobo Liang, \textbf{Tao Ge}, Chenfei Wu, Wang You, Ting Song, Yan Xia, Jonathan Tien, Nan Duan, Furu Wei: Low-code LLM: Visual Programming over LLMs. \href{https://aclanthology.org/2024.naacl-demo.2/}{\textcolor{conferencecolor}{NAACL 2024}} Demo
+    \item Zhenhailong Wang, Shaoguang Mao, Wenshan Wu, \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Furu Wei, Heng Ji: Unleashing Cognitive Synergy in Large Language Models: A Task-Solving Agent through Multi-Persona Self-Collaboration. \href{https://aclanthology.org/2024.naacl-long.15/}{\textcolor{conferencecolor}{NAACL 2024}} \label{pub:self-collab}
+    \item \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Jing Hu, Lei Wang, Xun Wang, Si-Qing Chen, Furu Wei: In-context Autoencoder for Context Compression in a Large Language Model. \href{https://openreview.net/forum?id=uREj4ZuGJE}{\textcolor{conferencecolor}{ICLR 2024}}\label{pub:icae}
+    \item Heming Xia, \textbf{Tao Ge}*\textsuperscript{\faEnvelope[regular]}, Peiyi Wang, Si-Qing Chen, Furu Wei, Zhifang Sui: Speculative Decoding: Exploiting Speculative Execution for Accelerating Seq2seq Generation. \href{https://aclanthology.org/2023.findings-emnlp.257/}{Findings of \textcolor{conferencecolor}{EMNLP 2023}} (Originally announced at \url{https://arxiv.org/abs/2203.16487} in Mar. 2022: \redhl{the first work to coin the term ``Speculative Decoding'' for the speculative execution paradigm})\label{pub:specdec}
+    \item \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Jing Hu, Li Dong, Shaoguang Mao, Yan Xia, Xun Wang, Si-Qing Chen, Furu Wei: Extensible Prompts for Language Models on Zero-shot Language Style Customization. \href{https://papers.nips.cc/paper_files/paper/2023/hash/6fcbfb3721c1781728b10c6685cc2f6c-Abstract-Conference.html}{\textcolor{conferencecolor}{NeurIPS 2023}}
+    \item Nan Yang, \textbf{Tao Ge}, Liang Wang, Binxing Jiao, Daxin Jiang, Linjun Yang, Rangan Majumder, Furu Wei: Inference with Reference: Lossless Acceleration of Large Language Models. \redhl{Tech Report} (\url{https://arxiv.org/pdf/2304.04487})
+   \label{pub:llma}
+    \item \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Si-Qing Chen, Furu Wei: EdgeFormer: A Parameter-Efficient Transformer for On-Device Seq2seq Generation. \href{https://aclanthology.org/2022.emnlp-main.741/}{\textcolor{conferencecolor}{EMNLP 2022}}\label{pub:edgeformer}
+    \item Xin Sun, \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Shuming Ma, Jingjing Li, Furu Wei, Houfeng Wang: A Unified Strategy for Multilingual Grammatical Error Correction with Pre-trained Cross-lingual Language Model. \href{https://www.ijcai.org/proceedings/2022/606}{\textcolor{conferencecolor}{IJCAI 2022}}\label{pub:multilingual_gec}
+    \item Jingjing Li, Zichao Li, \textbf{Tao Ge}, Irwin King, Michael Lyu: Text Revision by On-the-Fly Representation Optimization. \href{https://ojs.aaai.org/index.php/AAAI/article/view/21343}{\textcolor{conferencecolor}{AAAI 2022}}  \label{pub:on-the-fly}
+    \item \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Heming Xia, Xin Sun, Si-Qing Chen, Furu Wei: Lossless Acceleration for Seq2seq Generation with Aggressive Decoding. \redhl{Tech Report} (\url{https://arxiv.org/pdf/2205.10350})\label{tech:aggressive}
+    \item Canwen Xu, Wangchunshu Zhou, \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Ke Xu, Julian McAuley, Furu Wei: Beyond Preserved Accuracy: Evaluating Loyalty and Robustness of BERT Compression. \href{https://aclanthology.org/2021.emnlp-main.832/}{\textcolor{conferencecolor}{EMNLP 2021}}
+    \item Wangchunshu Zhou, \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Canwen Xu, Ke Xu, Furu Wei: Improving Sequence-to-Sequence Pre-training via Sequence Span Rewriting. \href{https://aclanthology.org/2021.emnlp-main.45/}{\textcolor{conferencecolor}{EMNLP 2021}} \label{pub:ssr}
+    \item Xin Sun, \textbf{Tao Ge}*\textsuperscript{\faEnvelope[regular]}, Furu Wei, Houfeng Wang: Instantaneous Grammatical Error Correction with Shallow Aggressive Decoding. \href{https://aclanthology.org/2021.acl-long.462/}{\textcolor{conferencecolor}{ACL 2021}}\label{pub:aggressive}
+    \item Canwen Xu, Wangchunshu Zhou, \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Ke Xu, Julian McAuley, Furu Wei: Blow the Dog Whistle: A Dataset for Cant Creation, Understanding and Decryption in Chinese. \href{https://aclanthology.org/2021.naacl-main.172/}{\textcolor{conferencecolor}{NAACL 2021}}
+    \item Wangchunshu Zhou, \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Ke Xu, Julian McAuley, Furu Wei: BERT Loses Patience: Fast and Robust Inference with Early Exit. \href{https://proceedings.neurips.cc/paper/2020/hash/d4dd111a4fd973394238aca5c05bebe3-Abstract.html}{\textcolor{conferencecolor}{NeurIPS 2020}}
+    \item Mengyun Chen, \textbf{Tao Ge}*\textsuperscript{\faEnvelope[regular]}, Xingxing Zhang, Furu Wei, Ming Zhou: Improving the Efficiency of Grammatical Error Correction with Erroneous Span Detection and Correction. \href{https://aclanthology.org/2020.emnlp-main.581/}{\textcolor{conferencecolor}{EMNLP 2020}}
+    \item Canwen Xu, Wangchunshu Zhou, \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Ke Xu, Julian McAuley, Furu Wei, Ming Zhou: BERT-of-Theseus: Compressing BERT by Progressive Module Replacing. \href{https://aclanthology.org/2020.emnlp-main.633/}{\textcolor{conferencecolor}{EMNLP 2020}}
+    \item Yi Zhang, \textbf{Tao Ge}, Xu Sun: Parallel Data Augmentation for Formality Style Transfer. \href{https://aclanthology.org/2020.acl-main.294/}{\textcolor{conferencecolor}{ACL 2020}}\label{pub:style}
+    \item Wangchunshu Zhou, \textbf{Tao Ge}, Ke Xu, Furu Wei, Ming Zhou: Self-Adversarial Learning with Comparative Discrimination for Text Generation. \href{https://openreview.net/forum?id=B1l8L6EtDS}{\textcolor{conferencecolor}{ICLR 2020}}
+    \item Yinuo Guo, \textbf{Tao Ge}, Furu Wei: Fact-aware Sentence Split and Rephrase with Permutation Invariant Training. \href{https://ojs.aaai.org/index.php/AAAI/article/view/6291}{\textcolor{conferencecolor}{AAAI 2020}}
+    \item Wangchunshu Zhou, \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Ke Xu, Furu Wei, Ming Zhou: Bert-based Lexical Substitution. \href{https://aclanthology.org/P19-1328/}{\textcolor{conferencecolor}{ACL 2019}}
+    \item \textbf{Tao Ge}, Xingxing Zhang, Furu Wei, Ming Zhou: Automatic Grammatical Error Correction for Sequence-to-sequence Text Generation: An Empirical Study. \href{https://aclanthology.org/P19-1609/}{\textcolor{conferencecolor}{ACL 2019}}
+    \item \textbf{Tao Ge}, Qing Dou, Heng Ji, Lei Cui, Baobao Chang, Zhifang Sui, Furu Wei, Ming Zhou: Fine-grained Coordinated Cross-lingual Text Stream Alignment for Endless Language Knowledge Acquisition. \href{https://aclanthology.org/D18-1271/}{\textcolor{conferencecolor}{EMNLP 2018}}
+    \item \textbf{Tao Ge}\textsuperscript{\faEnvelope[regular]}, Furu Wei, Ming Zhou: Reaching Human-level Performance in Automatic Grammatical Error Correction: An Empirical Study. \redhl{Tech Report} (\url{https://arxiv.org/abs/1807.01270})\label{pub:humangec}
+    \item \textbf{Tao Ge}, Furu Wei, Ming Zhou: Fluency Boost Learning and Inference for Neural Grammatical Error Correction. \href{https://aclanthology.org/P18-1097/}{\textcolor{conferencecolor}{ACL 2018}}\label{pub:fluency}
+    \item \textbf{Tao Ge}, Lei Cui, Baobao Chang, Zhifang Sui, Furu Wei, Ming Zhou: EventWiki: A Knowledge Base of Major Events. \href{https://aclanthology.org/L18-1079/}{\textcolor{conferencecolor}{LREC 2018}}
+    \item \textbf{Tao Ge}, Lei Cui, Baobao Chang, Zhifang Sui, Ming Zhou: Event detection with Burst Information Networks. \href{https://aclanthology.org/C16-1309/}{\textcolor{conferencecolor}{COLING 2016}}
+    \item \textbf{Tao Ge}, Lei Cui, Heng Ji, Baobao Chang, Sujian Li, Ming Zhou, Zhifang Sui: News Stream Summarization using Burst Information Networks. \href{https://aclanthology.org/D16-1075/}{\textcolor{conferencecolor}{EMNLP 2016}}
+    \item Tingsong Jiang, Tianyu Liu, \textbf{Tao Ge}, Lei Sha, Baobao Chang, Sujian Li, Zhifang Sui: Towards Time-aware Knowledge Graph Completion. \href{https://aclanthology.org/C16-1161/}{\textcolor{conferencecolor}{COLING 2016}}
+    \item Tingsong Jiang, Tianyu Liu, \textbf{Tao Ge}, Lei Sha, Sujian Li, Baobao Chang, Zhifang Sui: Encoding Temporal Information for Time-aware Link Prediction. \href{https://aclanthology.org/D16-1260/}{\textcolor{conferencecolor}{EMNLP 2016}}
+    \item \textbf{Tao Ge}, Heng Ji, Baobao Chang, Zhifang Sui: One Tense per Scene: Predicting Tense in Chinese Conversations. \href{https://aclanthology.org/P15-2110/}{\textcolor{conferencecolor}{ACL 2015}}
+    \item \textbf{Tao Ge}, Wenzhe Pei, Heng Ji, Sujian Li, Baobao Chang, Zhifang Sui: Bring you to the past: Automatic Generation of Topically Relevant Event Chronicles. \href{https://aclanthology.org/P15-1056/}{\textcolor{conferencecolor}{ACL 2015}}
+    \item Wenzhe Pei, \textbf{Tao Ge}, Baobao Chang: An Effective Neural Network Model for Graph-based Dependency Parsing. \href{https://aclanthology.org/P15-1031/}{\textcolor{conferencecolor}{ACL 2015}}
+    \item Yue Liu, \textbf{Tao Ge}, Kusum S Mathews, Heng Ji, Deborah McGuinness: Exploiting task-oriented resources to learn word embeddings for clinical abbreviation expansion. \href{https://aclanthology.org/W15-3810/}{\textcolor{conferencecolor}{BioNLP 2015}}
+
+\end{enumerate}
+
+\end{document}
+
+%-------------------------------------------
+\end{document}
