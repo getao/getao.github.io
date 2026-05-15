@@ -91,7 +91,7 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
 - ![](https://img.shields.io/badge/ICML-26-white?labelColor=red) **FormAct: Agentic Source Editing for Rich-Format Document Generation**
 
-Eugene J. Yu, Xingxing Zhang, Yuan Xia, **Tao Ge**, Xun Wang, FNU Kartik, Vishwas Suryanarayanan, Cheng Yang, Amanda Jiang, Jiayu Ding, Xiangyu Wong, Tengchao Lv, Lei Cui, Si-Qing Chen, Furu Wei, Sujian Li
+  Eugene J. Yu, Xingxing Zhang, Yuan Xia, **Tao Ge**, Xun Wang, FNU Kartik, Vishwas Suryanarayanan, Cheng Yang, Amanda Jiang, Jiayu Ding, Xiangyu Wong, Tengchao Lv, Lei Cui, Si-Qing Chen, Furu Wei, Sujian Li
 
 - ![](https://img.shields.io/badge/ACL%20Findings-26-white?labelColor=tomato) **LEDGER: Scaling Agentic Document Editing with Dependency-aware Graph Retrieval**
 
