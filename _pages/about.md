@@ -36,7 +36,7 @@ Tao Ge is a Research Scientist at Apodex, training Apodex foundation models. Pri
 
 Tao enjoys proposing original ideas and has pioneered two influential techniques now widely used in LLM inference and training.
 
-- **Speculative Decoding.** Tao was the first to propose the method and name it Speculative Decoding for accelerating Transformer inference in [2022](https://arxiv.org/abs/2203.16487). It is now widely used in LLM inference.
+- **Speculative Decoding.** Tao was the first (in [2022](https://arxiv.org/abs/2203.16487)) to propose the method and name it Speculative Decoding for accelerating Transformer inference. It is now widely used in LLM inference.
 
 - **Persona-driven synthetic data creation.** Tao was the first to propose using personas to generate synthetic data at scale ([June 2024 paper](https://arxiv.org/abs/2406.20094)). The method is widely used to train frontier LLMs, including [OLMo](https://arxiv.org/html/2501.00656v2), [Nemotron](https://aclanthology.org/2026.eacl-long.43.pdf), [SmolLM](https://arxiv.org/html/2502.02737v1), and many others.
 
