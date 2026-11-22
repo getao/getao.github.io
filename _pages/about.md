@@ -55,10 +55,6 @@ Tao enjoys proposing original ideas and has pioneered two influential techniques
 
   Baolin Peng<sup>\*</sup><sup>✉</sup>, Wenlin Yao<sup>\*</sup>, Qianhui Wu<sup>\*</sup>, Hao Cheng<sup>\*</sup>, Xiao Yu, Rui Yang, **Tao Ge**, Alessandro Sordoni, Xingdi Yuan, Yelong Shen, Pengcheng He, Tong Zhang, Zhou Yu, Jianfeng Gao<sup>✉</sup>
 
-- ![](https://img.shields.io/badge/arXiv-26.04-white?labelColor=tan) [**Synthetic Computers at Scale for Long-Horizon Productivity Simulation**](https://arxiv.org/pdf/2604.28181)
-
-  **Tao Ge**<sup>✉</sup>, Baolin Peng<sup>✉</sup>, Hao Cheng, Jianfeng Gao
-
 - ![](https://img.shields.io/badge/arXiv-25.10-white?labelColor=tan) [**DocReward: A Document Reward Model for Structuring and Stylizing**](https://arxiv.org/pdf/2510.11391)  
 
   Junpeng Liu, Yuzhong Zhao, Bowen Cao, Jiayu Ding, Yilin Jia, Tengchao Lv, Yupan Huang, Shaohan Huang, Nan Yang, Li Dong, Lei Cui, **Tao Ge**, Xun Wang, Huitian Jiao, Sun Mao, FNU Kartik, Si-Qing Chen, Wai Lam, Furu Wei
@@ -82,6 +78,10 @@ Tao enjoys proposing original ideas and has pioneered two influential techniques
 
 
 ## Peer-reviewed
+
+- ![EACL 2027 Findings](https://img.shields.io/badge/EACL%20Findings-27-white?labelColor=tomato) [**Synthetic Computers at Scale for Long-Horizon Productivity Simulation**](https://arxiv.org/pdf/2604.28181)
+
+  **Tao Ge**<sup>✉</sup>, Baolin Peng<sup>✉</sup>, Hao Cheng, Jianfeng Gao
 
 - ![NeurIPS 2026 Evaluations & Datasets](https://img.shields.io/badge/NeurIPS%20E%26D-26-white?labelColor=red) [**WordEval: Evaluating Word-Native Operation Fidelity in Document Editing**](https://arxiv.org/abs/2611.10475)
 
