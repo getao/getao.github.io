@@ -47,17 +47,9 @@ Tao enjoys proposing original ideas and has pioneered two influential techniques
 
 ## Tech Report
 
-- ![](https://img.shields.io/badge/arXiv-26.09-white?labelColor=tan) [**ExecCritic: Learn to Test, Test to Improve for Coding Agents**](https://arxiv.org/pdf/2609.09133)
-
-  Leitian Tao, Baolin Peng, Haorui Wang, Hang Wang, Hao Cheng, Wenlin Yao, Qianhui Wu, **Tao Ge**, Sharon Li<sup>✉</sup>, Jianfeng Gao<sup>✉</sup>
-
 - ![](https://img.shields.io/badge/arXiv-26.08-white?labelColor=tan) [**Apodex 1.1: Scaling Agentic Intelligence for Complex Work**](https://arxiv.org/pdf/2608.23283)
 
   Apodex Team (including **Tao Ge**)
-
-- ![](https://img.shields.io/badge/arXiv-26.07-white?labelColor=tan) [**TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents**](https://arxiv.org/pdf/2607.13988)
-
-  Leitian Tao, Baolin Peng, Wenlin Yao, **Tao Ge**, Hao Cheng, Mike Hang Wang, Jianfeng Gao, Sharon Li
 
 - ![](https://img.shields.io/badge/arXiv-26.05-white?labelColor=tan) [**Orchard: An Open-Source Agentic Modeling Framework**](https://arxiv.org/pdf/2605.15040)
 
@@ -71,13 +63,6 @@ Tao enjoys proposing original ideas and has pioneered two influential techniques
 
   Junpeng Liu, Yuzhong Zhao, Bowen Cao, Jiayu Ding, Yilin Jia, Tengchao Lv, Yupan Huang, Shaohan Huang, Nan Yang, Li Dong, Lei Cui, **Tao Ge**, Xun Wang, Huitian Jiao, Sun Mao, FNU Kartik, Si-Qing Chen, Wai Lam, Furu Wei
 
-- ![](https://img.shields.io/badge/arXiv-25.01-white?labelColor=tan) [**OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas**](https://arxiv.org/pdf/2501.15427)
-
-  Xiaoyang Wang, Hongming Zhang, **Tao Ge**, Wenhao Yu, Dian Yu, Dong Yu
-
-- ![](https://img.shields.io/badge/arXiv-24.10-white?labelColor=tan) [**ParallelSpec: Parallel Drafter for Efficient Speculative Decoding**](https://arxiv.org/pdf/2410.05589)
-
-  Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
 - ![](https://img.shields.io/badge/arXiv-24.06-white?labelColor=tan) [**Scaling Synthetic Data Creation with 1,000,000,000 Personas**](https://arxiv.org/pdf/2406.20094) (a novel persona-driven synthetic data creation paradigm)
 
