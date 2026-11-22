@@ -34,7 +34,7 @@ redirect_from:
 
 Tao Ge is a Research Scientist at Apodex, training Apodex foundation models. Prior to Apodex, Tao was a research scientist at Microsoft and Tencent.
 
-Tao enjoys proposing original ideas. Two of the contributions he is most proud of are now widely used in LLM inference and training.
+Tao enjoys proposing original ideas. His research contributions include methods now widely used in LLM inference and training.
 
 - **Speculative Decoding.** Tao was the first (in [2022](https://arxiv.org/abs/2203.16487)) to propose the method and name it Speculative Decoding for accelerating Transformer inference. It is now widely used in LLM inference.
 
