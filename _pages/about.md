@@ -26,38 +26,20 @@ redirect_from:
   animation: badge-pulse 1.4s ease-in-out infinite;
   cursor: default;
 }
-.company-logo {
-  height: 20px;
-  vertical-align: middle;
-  border-radius: 4px;
-  margin-left: 2px;
-}
 </style>
 
 <span class='anchor' id='about-me'></span>
 
 # About
 
-Dr. Tao Ge is a Principal Science Lead at Microsoft in Redmond, where he leads research and development of LLMs with a focus on productivity scenarios, spanning synthetic data, mid-/post-training, efficient training recipes, and agentic approaches. Prior to his current role, Tao was a Principal Researcher at Tencent AI Lab (Seattle) and Microsoft Research Asia (MSRA) after earning his Ph.D. in Computer Science from Peking University.
+Tao Ge is a Research Scientist at Apodex, training Apodex foundation models. Prior to Apodex, Tao was a research scientist at Microsoft and Tencent.
 
-Tao has published more than 60 papers at top AI/ML conferences. Two of his most known and widely adopted tech innovations are:
+Tao enjoys proposing original ideas and has pioneered two influential techniques now widely used in LLM inference and training.
 
-1. **Speculative Decoding**: Tao was the first to propose and name Speculative Decoding in the published literature, a novel paradigm for lossless acceleration of Transformer decoding, and the first to [open-source](https://github.com/microsoft/unilm/tree/master/decoding) the draft-then-verify speculative execution decoding paradigm:
-   - His seminal work began in [2021](https://aclanthology.org/2021.acl-long.462.pdf) (initially referred to as [Aggressive Decoding](https://arxiv.org/pdf/2205.10350)) for seq2seq generation, which is **the first drafter-free speculative decoding formulation** and a key idea of [Predicted Output](https://platform.openai.com/docs/guides/predicted-outputs) used by OpenAI.
-   - He was **the first to introduce a separate drafter model** to achieve lossless speedup (first made public in [March 2022](https://arxiv.org/pdf/2203.16487)) and **the first to release an [open-source implementation](https://github.com/microsoft/unilm/tree/master/decoding)** of the general drafter-verifier decoding paradigm. He was also **the first to coin the term "Speculative Decoding"** for this speculative execution paradigm (renamed from Aggressive Decoding, made public in [September 2022](https://openreview.net/forum?id=H-VlwsYvVi)).
-   
-   This line of work was subsequently pursued by the papers on Speculative Decoding/Sampling for LLMs from Google (first made public in [November 2022](https://arxiv.org/abs/2211.17192)) and DeepMind (made public in [February 2023](https://arxiv.org/abs/2302.01318)), sparking the surge of interest and adoption since mid-2023. Today, Speculative Decoding has become an industry standard for LLM inference acceleration, supported in major open-source frameworks (e.g., vLLM, PyTorch, ONNX) and widely integrated into production-scale deployments.
+- **Speculative Decoding.** Tao was the first to propose the method and name it Speculative Decoding for accelerating Transformer inference in [2022](https://arxiv.org/abs/2203.16487). It is now widely used in LLM inference.
 
-2. **Persona-Driven Synthetic Data Creation**: Tao proposed [persona-driven synthetic data creation](https://arxiv.org/abs/2406.20094), a novel paradigm for scaling high-quality synthetic training data generation with billions of diverse personas, addressing a fundamental bottleneck of synthetic data — the lack of diversity and coverage — and enabling scalable data synthesis across training, evaluation, and user/world simulation for agentic scenarios. This innovation has been widely recognized and adopted as a core methodology for **synthetic data creation** and **agentic simulation** in the development of leading LLMs, including but not limited to:
-   - [OLMo](https://arxiv.org/abs/2501.00656)/[Molmo and PixMo](https://arxiv.org/abs/2409.17146) <img class="company-logo" src="https://github.com/allenai.png?size=64" title="AI2" alt="AI2">
-   - [Nemotron](https://aclanthology.org/2026.eacl-long.43.pdf) <img class="company-logo" src="https://github.com/NVIDIA.png?size=64" title="Nvidia" alt="Nvidia">
-   - [Qwen](https://qwen.ai/home) <img class="company-logo" src="https://github.com/alibaba.png?size=64" title="Alibaba" alt="Alibaba">
-   - [Hunyuan](https://github.com/Tencent-Hunyuan) <img class="company-logo" src="https://github.com/Tencent.png?size=64" title="Tencent" alt="Tencent">
-   - [LongCat](https://arxiv.org/abs/2509.18883)/[EvoCUA](https://arxiv.org/pdf/2601.15876) <img class="company-logo" src="https://github.com/meituan.png?size=64" title="Meituan" alt="Meituan">
-   - [PaddleOCR](https://arxiv.org/pdf/2510.14528) <img class="company-logo" src="https://github.com/baidu.png?size=64" title="Baidu" alt="Baidu">
-   - [SmolLM](https://arxiv.org/abs/2502.02737) <img class="company-logo" src="https://github.com/huggingface.png?size=64" title="Hugging Face" alt="Hugging Face">
-   - [Hermes](https://arxiv.org/abs/2508.18255) <img class="company-logo" src="https://github.com/NousResearch.png?size=64" title="Nous Research" alt="Nous Research">
-   - [Minicpm](https://arxiv.org/abs/2506.07900) <img class="company-logo" src="https://github.com/OpenBMB.png?size=64" title="ModelBest" alt="ModelBest">
+- **Persona-driven synthetic data creation.** Tao was the first to propose using personas to generate synthetic data at scale ([June 2024 paper](https://arxiv.org/abs/2406.20094)). The method is widely used to train frontier LLMs, including [OLMo](https://arxiv.org/html/2501.00656v2), [Nemotron](https://aclanthology.org/2026.eacl-long.43.pdf), [SmolLM](https://arxiv.org/html/2502.02737v1), and many others.
+
 
 <span class='anchor' id='publications'></span>
 
@@ -65,10 +47,37 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
 ## Tech Report
 
+- ![](https://img.shields.io/badge/arXiv-26.09-white?labelColor=tan) [**ExecCritic: Learn to Test, Test to Improve for Coding Agents**](https://arxiv.org/pdf/2609.09133)
+
+  Leitian Tao, Baolin Peng, Haorui Wang, Hang Wang, Hao Cheng, Wenlin Yao, Qianhui Wu, **Tao Ge**, Sharon Li<sup>✉</sup>, Jianfeng Gao<sup>✉</sup>
+
+- ![](https://img.shields.io/badge/arXiv-26.08-white?labelColor=tan) [**Apodex 1.1: Scaling Agentic Intelligence for Complex Work**](https://arxiv.org/pdf/2608.23283)
+
+  Apodex Team (including **Tao Ge**)
+
+- ![](https://img.shields.io/badge/arXiv-26.07-white?labelColor=tan) [**TRACE: Turn-level Reward Assignment via Credit Estimation for Long-Horizon Agents**](https://arxiv.org/pdf/2607.13988)
+
+  Leitian Tao, Baolin Peng, Wenlin Yao, **Tao Ge**, Hao Cheng, Mike Hang Wang, Jianfeng Gao, Sharon Li
+
+- ![](https://img.shields.io/badge/arXiv-26.05-white?labelColor=tan) [**Orchard: An Open-Source Agentic Modeling Framework**](https://arxiv.org/pdf/2605.15040)
+
+  Baolin Peng<sup>\*</sup><sup>✉</sup>, Wenlin Yao<sup>\*</sup>, Qianhui Wu<sup>\*</sup>, Hao Cheng<sup>\*</sup>, Xiao Yu, Rui Yang, **Tao Ge**, Alessandro Sordoni, Xingdi Yuan, Yelong Shen, Pengcheng He, Tong Zhang, Zhou Yu, Jianfeng Gao<sup>✉</sup>
+
+- ![](https://img.shields.io/badge/arXiv-26.04-white?labelColor=tan) [**Synthetic Computers at Scale for Long-Horizon Productivity Simulation**](https://arxiv.org/pdf/2604.28181)
+
+  **Tao Ge**<sup>✉</sup>, Baolin Peng<sup>✉</sup>, Hao Cheng, Jianfeng Gao
+
 - ![](https://img.shields.io/badge/arXiv-25.10-white?labelColor=tan) [**DocReward: A Document Reward Model for Structuring and Stylizing**](https://arxiv.org/pdf/2510.11391)  
 
   Junpeng Liu, Yuzhong Zhao, Bowen Cao, Jiayu Ding, Yilin Jia, Tengchao Lv, Yupan Huang, Shaohan Huang, Nan Yang, Li Dong, Lei Cui, **Tao Ge**, Xun Wang, Huitian Jiao, Sun Mao, FNU Kartik, Si-Qing Chen, Wai Lam, Furu Wei
 
+- ![](https://img.shields.io/badge/arXiv-25.01-white?labelColor=tan) [**OpenCharacter: Training Customizable Role-Playing LLMs with Large-Scale Synthetic Personas**](https://arxiv.org/pdf/2501.15427)
+
+  Xiaoyang Wang, Hongming Zhang, **Tao Ge**, Wenhao Yu, Dian Yu, Dong Yu
+
+- ![](https://img.shields.io/badge/arXiv-24.10-white?labelColor=tan) [**ParallelSpec: Parallel Drafter for Efficient Speculative Decoding**](https://arxiv.org/pdf/2410.05589)
+
+  Zilin Xiao, Hongming Zhang, **Tao Ge**, Siru Ouyang, Vicente Ordonez, Dong Yu
 
 - ![](https://img.shields.io/badge/arXiv-24.06-white?labelColor=tan) [**Scaling Synthetic Data Creation with 1,000,000,000 Personas**](https://arxiv.org/pdf/2406.20094) (a novel persona-driven synthetic data creation paradigm)
 
@@ -101,7 +110,7 @@ Tao has published more than 60 papers at top AI/ML conferences. Two of his most 
 
   Yuheng Zhang, Dian Yu, **Tao Ge**, Linfeng Song, Zhichen Zeng, Haitao Mi, Nan Jiang, Dong Yu
 
-- ![](https://img.shields.io/badge/EMNLP-25-white?labelColor=red) [**Router-Tuning: A Simple and Effective Approach for Dynamic Depth**](https://arxiv.org/abs/2410.13184)
+- ![](https://img.shields.io/badge/EMNLP-25-white?labelColor=red) [**Router-Tuning: A Simple and Effective Approach for Dynamic Depth**](https://aclanthology.org/2025.emnlp-main.99/)
 
   Shwai He, **Tao Ge**, Guoheng Sun, Bowei Tian, Xiaoyang Wang, Dong Yu
 
