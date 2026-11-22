@@ -83,6 +83,10 @@ Tao enjoys proposing original ideas and has pioneered two influential techniques
 
 ## Peer-reviewed
 
+- ![NeurIPS 2026 Evaluations & Datasets](https://img.shields.io/badge/NeurIPS%20E%26D-26-white?labelColor=red) [**WordEval: Evaluating Word-Native Operation Fidelity in Document Editing**](https://arxiv.org/abs/2611.10475)
+
+  Jinyoung Park<sup>\*</sup>, Yupan Huang<sup>\*</sup>, Shimin Zhang, Jiayu Ding, Yilin Jia, Yuzhong Zhao, Tengchao Lv, Wenshan Wu, Shaohan Huang, Nan Yang, Xiangyang Zhou, Dongdong Zhang, Li Dong, Lei Cui, Sun Mao, Xun Wang, **Tao Ge**, Huitian Jiao, Si-Qing Chen, Changick Kim<sup>✉</sup>, Furu Wei<sup>✉</sup>
+
 - ![](https://img.shields.io/badge/ICML-26-white?labelColor=red) **FormAct: Agentic Source Editing for Rich-Format Document Generation**
 
   Eugene J. Yu, Xingxing Zhang, Yuan Xia, **Tao Ge**, Xun Wang, FNU Kartik, Vishwas Suryanarayanan, Cheng Yang, Amanda Jiang, Jiayu Ding, Xiangyu Wong, Tengchao Lv, Lei Cui, Si-Qing Chen, Furu Wei, Sujian Li
